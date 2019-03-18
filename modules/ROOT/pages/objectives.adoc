@@ -1,31 +1,33 @@
-= Objectius de la mesura
+= Objetivos de la medida
 ifndef::env-site,env-github[]
 include::_attributes.adoc[]
 endif::[]
 include::{partialsdir}/README.adoc[tag=metadata]
 
-La mesura exposa el *Programa per a la Digitalització Oberta: Programari Lliure i Desenvolupament Àgil de Serveis* de l'Ajuntament de Barcelona.
+La medida expone el Programa de digitalización abierta y desarrollo ágil de servicios del Ayuntamiento de Barcelona y se centra en los objetivos indicados en el apartado anterior.
+Finalmente se presentan los proyectos emblemáticos a través de los que se empiezan a implantar estas nuevas prácticas.
 
-Aquesta mesura es focalitza en aconseguir que l'Ajuntament sigui capaç de desenvolupar de forma àgil serveis digitals centrats en les necessitats reals de la ciutadania, assolir una independència tecnològica basada en programari lliure i l'ús d'estàndards oberts, posar a disposició dels ciutadans dades de l'Administració publica per a que puguin obtenir més valor, i assegurar que puguin accedir a aquests serveis salvaguardant el dret a la privacitat.
+Así pues, los objetivos principales de esta medida son conseguir que el Ayuntamiento sea capaz de desarrollar de forma ágil servicios digitales centrados en las necesidades reales de la ciudadanía; alcanzar una independencia tecnológica basada en _software_ libre y el uso de estándares abiertos; poner a disposición de los ciudadanos datos de la Administración pública para que puedan obtener más valor, y asegurar que puedan acceder a estos servicios salvaguardando el derecho a la privacidad.
+A continuación se detallan estos y otros objetivos de la medida:
 
-Els principals objectius son:
+. Desarrollar un modelo de servicios digitales centrado en el usuario y más colaboración para generar más valor con los mismos recursos.
 
-. Focalització en un model de serveis digitals centrat en l'usuari i més col·laboració per generar més valor amb els mateixos recursos.
+. Generalizar y extender metodologías ágiles para la construcción de nuevos servicios públicos digitales.
 
-. Generalització i extensió de metodologies àgils per a la construcció de nous serveis públics digitals.
+. Desarrollar las capacidades internas para la gestión ágil de los servicios públicos en todo el Ayuntamiento.
 
-. Desenvolupament de les capacitats internes per a la gestió àgil dels serveis públics a tot l'Ajuntament.
+. Hacer que la contratación pública sea más transparente, sencilla y objetiva.
 
-. Obertura de la contractació pública, fent-la més transparent, senzilla i objectiva.
+. Utilizar preferentemente _software_ libre y abierto, con el propósito de que su uso sea obligatorio en el futuro para asegurar la soberanía tecnológica y de los datos.
 
-. Utilització preferent de programari lliure i obert, amb el propòsit de que el seu ús obligatori en el futur per tal d' assegurar la sobirania tecnològica i de les dades.
+. Establecer una arquitectura abierta y prácticas basadas en estándares abiertos.
 
-. Establiment d'una arquitectura oberta i	pràctiques basades en estàndards oberts.
+. Revisar los procesos de contratación para incorporar estos objetivos e innovaciones a las relaciones con el sector industrial.
 
-. Revisió dels processos de contractació per a incorporar aquestes objectius i innovacions en les relacions amb el sector industrial.
+. Mejorar el acceso a datos de la Administración, respetando la privacidad y evaluando los riesgos éticos de la ciudad inteligente y las grandes bases de datos, incluido el cumplimiento legal de la normativa de protección de datos, configurando un código ético de práctica tecnológica y definiendo una estrategia de datos.
 
-. Millorar l'accés a dades de l'administració, respectant la privacitat i avaluant els riscos ètics de la ciutat intel·ligent i les grans bases de dades, inclòs el compliment legal de la normativa de protecció de dades, configurant un codi ètic de practica tecnològica i definint una estratègia de dades.
+. Desarrollar nuevas guías de adquisición de tecnología que se integrarán en el marco general del contrato público, que todos los contratos públicos y funcionarios administrativos del Ayuntamiento deberán seguir e implementar.
 
-. Desenvolupar noves guies d'adquisició de tecnologia que s'integraran en el marc general del contracte públic i que ha de ser seguit i	implementat per tots els contractes públics i funcionaris administratius de l'Ajuntament.
-
+////
 Finalment es presenten els *projectes emblemàtics*, a través dels quals es comencen a assolir aquests objectius i a implantar les noves pràctiques necessàries per a fer-ho.
+////

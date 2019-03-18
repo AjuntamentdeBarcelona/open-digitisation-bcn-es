@@ -1,96 +1,110 @@
-= Context
+= Contexto
 ifndef::env-site,env-github[]
 include::_attributes.adoc[]
 endif::[]
 include::{partialsdir}/README.adoc[tag=metadata]
 
-== Ajuntament de Barcelona
+== Ayuntamiento de Barcelona
 
-El *Pla Barcelona Ciutat Digital* (PBCD), aprovat el passat mes d'octubre de 2016, és un Pla transversal que vol assegurar una política tecnològica coherent i homogènia dins l'Ajuntament en els eixos de Govern i Ciutat, Empreses i Entitats Socials i Ciutadania.
+El PBCD, aprobado el pasado mes de octubre del 2016, es un plan transversal con el que se pretende asegurar una política tecnológica coherente y homogénea dentro del Ayuntamiento en los ejes de gobierno y ciudad, empresas y entidades sociales y ciudadanía.
 
-El PBCD ha d'assegurar que la tecnologia i la innovació digital actuen de facilitadors en la consecució d'unes polítiques públiques equitatives i eficients orientades a cobrir millor les necessitats dels ciutadans i ciutadanes i potenciar les seves capacitats, per a conformar uns serveis públics de major qualitat, amb l'òptima assignació i utilització dels recursos i el talent públic.
+El PBCD debe asegurar que la tecnología y la innovación digital actúan de facilitadores en la consecución de unas políticas públicas equitativas y eficientes orientadas a cubrir mejor las necesidades de la ciudadanía y potenciar sus capacidades, para conformar unos servicios públicos de mayor calidad, con la óptima asignación y utilización de los recursos y el talento público.
 
-Dins del PBCD s'han definit tres eixos estratègics amb els següents objectius (Figura 1):
+Dentro del plan se han definido tres ejes estratégicos, con los siguientes objetivos (figura 1):
 
-image::open-digit-p9-axes-{lang}.svg[FIGURA 1]
+image::open-digit-p9-axes-{lang}.svg[FIGURA 1, align="center"]
 
-El Pla de Transformació Digital de l'Ajuntament de Barcelona (PTDA) és el full de ruta dels projectes TIC del mandat, global i per a cada Gerència, d'acord amb les prioritats polítiques.
-Aquest pla inclou també els projectes d'actualització tecnològica i els projectes d'adequació al nou marc legal establert per la Llei 39/2015, d'1 d'octubre, de Procediment Administratiu Comú de les Administracions Públiques (LPCAP).
+El PTDA es la hoja de ruta de los proyectos TIC del mandato, global y para cada gerencia, de acuerdo con las prioridades políticas.
+Este plan incluye también los proyectos de actualización tecnológica y los proyectos de adecuación al nuevo marco legal establecido por la Ley 39/2015, de 1 de octubre, de procedimiento administrativo común de las administraciones públicas.
 
-== Marc Legal
+== Marco Legal
 
-La Llei 39/2015, d'1 d'octubre, de Procediment Administratiu Comú de les Administracions Públiques (LPCAP) que impulsa l'administració digital d'una forma integral: tant la relació amb el ciutadà, com la gestió electrònica del procediment administratiu, el document i expedient electrònic, la interoperabilitat, etc. defineix un nou marc legal que obliga a canvis profunds en la prestació dels serveis públics i en conseqüència en l'organització municipal i els seus sistemes informàtics.
+La Ley 39/2015, de 1 de octubre, de procedimiento administrativo común de las administraciones públicas, que impulsa la Administración digital de una forma integral, tanto la relación con el ciudadano como la gestión electrónica del procedimiento administrativo, el documento y expediente electrónico, la interoperabilidad, etcétera, define un nuevo marco legal que obliga a hacer cambios profundos en la prestación de los servicios públicos y, en consecuencia, en la organización municipal y sus sistemas informáticos.
 
-Cal indicar que a més del compliment de la LPACAP, en el context normatiu de la UE, la legislació espanyola i la catalana, trobem també altres textos legals als que també s'ha de donar resposta:
+Hay que indicar que, además del cumplimiento de la mencionada ley, en el contexto normativo de la Unión Europea (UE), la legislación española y la catalana, encontramos también otros textos legales a los que también debe darse respuesta:
 
-* El Pla d'Acció d'Administració Electrònica 2016-2020 de la UE, amb l'objectiu d'eliminar els obstacles digitals que s'oposen al Mercat Únic Digital i evitar la fragmentació que es pot generar en el context de transformació de les administracions públiques.
+* El Plan de acción de Administración electrónica 2016-2020 de la UE, con el objetivo de eliminar los obstáculos digitales que se oponen al mercado único digital y evitar la fragmentación que se puede generar en el contexto de transformación de las administraciones públicas.
 
-* El nou Reglament General de Protecció de Dades europeu (RGPD) aprovat el maig de 2016, al qual s'ha d'adaptar i complir tota administració pública.
+* El nuevo Reglamento general de protección de datos europeo, aprobado en mayo del 2016, al que se tiene que adaptar y que debe cumplir toda Administración pública.
 
-* La Llei 19/2014, de 29 de desembre de transparència, accés a la informació pública i bon govern.
-Aquesta llei té per objecte facilitar als ciutadans el coneixement de les actuacions de les administracions públiques autonòmiques, i el control i transparència en el destí dels diners públics.
+* La Ley 19/2014, de 29 de diciembre, de transparencia, acceso a la información pública y buen gobierno.
+Esta ley tiene por objeto facilitar a los ciudadanos el conocimiento de las actuaciones de las administraciones públicas autonómicas y el control y la transparencia en el destino del dinero público.
 
-* La Llei 39/2015, d'1 d'octubre, de règim jurídic del sector públic, que recull lo previst a la derogada Llei 11/2007 de 22 de juny, d'accés electrònic dels ciutadans a l'administració, (coneguda com LAESCP).
-En aquest context, el programari lliure, els estàndards i les tecnologies de fonts obertes estan considerats com la millor opció per al desenvolupament d'un model tecnològic d'Administració a la mida de les necessitats i els objectius específics de l'Administració públic basat en criteris estratègics de transparència, control, seguretat, interoperabilitat, accés i conservació de la informació, economia, reutilització o cooperació entre organitzacions, contra els quals difícilment poden competir les tecnologies tancades.
+* La Ley 11/2007, de 22 de junio, de acceso electrónico de los ciudadanos a la Administración, conocida como LAESCP.
+En este contexto, el software libre, los estándares y las tecnologías de fuentes abiertas están considerados la mejor opción para el desarrollo de un modelo tecnológico de e-Administración a la medida de las necesidades y los objetivos específicos de la Administración pública, basado en criterios estratégicos de transparencia, control, seguridad, interoperabilidad, acceso y conservación de la información, economía, reutilización o cooperación entre organizaciones, contra los que difícilmente pueden competir las tecnologías cerradas.
 
-* Reial Decret 4/2010 de 8 de gener, per el que es regula la l'Esquema Nacional d'Interoperabilitat, el qual compren els criteris i recomanacions de seguretat, normalització i conservació de la informació, dels formats i de les aplicacions que hauran de ser tinguts en compte per les Administracions públiques per assegurar un adequat nivell d'interoperabilitat organitzativa, semàntica i tècnica de les dades, informacions i serveis que gestionin en l'exercici de les seves competències i per evitar la discriminació als ciutadans per raó de la seva elecció tecnològica.
+* Real decreto 4/2010, de 8 de enero, por el que se regula el Esquema Nacional de Interoperabilidad, que comprende los criterios y recomendaciones de seguridad, normalización y conservación de la información, de los formatos y de las aplicaciones que deberán tener en cuenta las administraciones públicas para asegurar un adecuado nivel de interoperabilidad organizativa, semántica y técnica de los datos, las informaciones y los servicios que gestionen en el ejercicio de sus competencias y para evitar la discriminación a la ciudadanía por su elección tecnológica.
+Informaciones y servicios que gestionen en el ejercicio de sus competencias y para evitar la discriminación a los ciudadanos pera razón de su elección tecnológica.
 
-== Noves Tendències en el desenvolupament de serveis digitals àgils, sobirania tecnològica i de gestió ètica de dades
+== Nuevas tendencias en el desarrollo de servicios digitales ágiles, soberanía tecnológica y gestión ética de datos
 
-En la situació actual en què els canvis es produeixen de manera increïblement ràpida i es produeixen canvis dins dels canvis calen models de desenvolupament i implementació de serveis digitals que ens ajudin a adaptarnos a aquestes transformacions.
-Aquesta afirmació és molt més encertada en el sector de les tecnologies de la informació i les comunicacions (TIC) en el qual la velocitat i agilitat davant del canvi és fonamental.
-Per aquesta raó, i davant de les dificultats i a vegades fracassos experimentats amb les metodologies tradicionals de gestió de projectes, han sorgit les metodologies àgils.
+En la situación actual, en que los cambios se producen de manera increíblemente rápida y en que se producen cambios dentro de los cambios, se necesitan modelos de desarrollo e implementación de servicios digitales que nos ayuden a adaptarnos a estas transformaciones.
+Esta afirmación es mucho más acertada en el sector de las TIC, en el que la velocidad y la agilidad ante el cambio son fundamentales.
+Por esta razón, y ante las dificultades y a veces fracasos experimentados con las metodologías tradicionales de gestión de proyectos, han surgido las metodologías ágiles.
 
-Quan es parla de metodologies àgils, es fa referència a un grup de metodologies, d'acord amb el “manifest àgil”footnote:[_Manifest àgil - font http://agilemanifesto.org_] de 2001, aplicades en la creació i el desenvolupament de programari en iteracions, en el qual les necessitats i solucions evolucionen a través de la col·laboració entre els diferents equips involucrats en el projecte.
+Cuando se habla de metodologías ágiles, se hace referencia a un grupo de metodologías, de acuerdo con el “Manifiesto Agile”footnote:[_Manifesto ágil - font http://agilemanifesto.org_] del 2001, aplicadas en la creación de software que basa su desarrollo en un ciclo iterativo, en el que las necesidades y soluciones evolucionan mediante la colaboración entre los diferentes equipos involucrados en el proyecto.
 
-Les metodologies àgils promouen una gestió de projectes disciplinada que fomenta la constant revisió i adaptació a les necessitats dels usuaris i als canvis.Proporcionen un sistema organitzat que permet i facilita el treball en equip i l'autoorganització i afavoreixen la reducció del temps de desenvolupament.
+Las metodologías ágiles promueven una gestión de proyectos disciplinada que fomenta la constante revisión y adaptación a las necesidades de los usuarios y a los cambios.
+Proporcionan un sistema organizado que permite y facilita el trabajo en equipo y la autoorganización y favorecen la reducción del tiempo de desarrollo.
 
-En referència a la sobirania tecnològica i de dades, podem afirmar que el programari lliure i de codi obert és “_tècnicament viable, econòmicament sostenible i socialment just:_” footnote:[_Jordi Mas al seu llibre homònim (Col·lecció “Manuals i Formularis”, 15)_].
-Això es reflexa en uns beneficis concrets en l'administració local.
+En referencia a la soberanía tecnológica y de datos, podemos afirmar que el software libre es “_técnicamente viable, económicamente sostenible y socialmente justo_” footnote:[_Jordi Mas, en su libro homónimo (Colección “Manuales y Formularios”, 15)._].
+Eso se refleja en unos beneficios concretos en la Administración local.
+////
+A continuación se detallan estas tres características:
+////
 
-* És *tècnicament viable* perquè permet reaprofitar projectes lliures existents, gràcies a la reducció de l'esforç d'implementació per cobrir necessitats pròpies.
-Tota empresa informàtica, amb independència de la seva mida, depèn en major o menor grau de programari lliure.
-Que l'Administració local en faci ús directament és un pas lògic.
+* Es *técnicamente viable* porque permite reaprovechar proyectos libres existentes, gracias a la reducción del esfuerzo de implementación para cubrir necesidades propias.
+Toda empresa informática, con independencia de su tamaño, depende en mayor o menor grado de software libre.
+Que la Administración local haga uso de él directamente es un paso lógico.
 
-La llibertat d'escollir eines també significa llibertat de proveïdor per al seu manteniment i desenvolupament.
-Treballar amb formats i estàndards oberts permet no dependre d'una sola empresa o eina i tenir accés sempre a la informació generada.
+La libertad de escoger herramientas también significa libertad de proveedor para su mantenimiento y desarrollo.
+Trabajar con formatos y estándares abiertos permite no depender de una gran empresa y tener acceso siempre a la información generada.
 
-Participar directament en la comunitat dóna accés a coneixements consolidats d'altres entitats, podent contribuir-hi amb documentació, codi o compartint experiències implementant el projecte a l'Administració.
+Participar directamente en la comuni-dad da acceso a conocimientos consolidados de otras entidades, y se puede contribuir con documentación o código o compartir experiencias implementando el proyecto en la Administración.
 
-* És *econòmicament sostenible* perquè elimina moltes despeses en llicències d'ús i retalla altres costos.
-Aquesta reducció no vol dir una pèrdua de qualitat ni de seguretat.
-Al contrari, pot fer viables projectes que amb programari privatiu no són possibles i mantenir els sistemes actualitzats i protegits al menor cost possible.
+* Es *económicamente sostenible* porque elimina posibles licencias de uso y reduce costes.
+Esta reducción no significa una pérdida de calidad ni de seguridad.
+Al contrario, puede hacer viables proyectos que con software privativo no son posibles y mantener los sistemas actualizados y protegidos al menor coste posible.
 
-L'estalvi pot reinvertir-se en maquinari adient per a les noves eines o a partides que necessitin recursos addicionals.
-Així, l'Administració mostra responsabilitat vers els diners públics i n'exerceix una gestió responsable.
+El ahorro puede reinvertirse en _hardware_ adecuado para las nuevas herramientas o en partidas que necesiten recursos adicionales.
+Así, la Administración local muestra responsabilidad hacia el dinero público y ejerce una gestión responsable.
 
-Amb la llibertat d'escollir proveïdor sense restriccions es pot potenciar la reinversió dels diners públics al territori tot afavorint l'economia de proximitat.
-Generant un cercle virtuós on qualsevol pime, cooperativa i autònom pot oferir els seus serveis, en igualtat de condicions.
-En un país on el 90% de les empreses són petites i mitjanes, això obre un ventall de possibilitats molt ampli.
+Con la libertad de escoger proveedor sin restricciones se puede potenciar la reinversión del dinero público en el territorio, lo que favorece la economía de proximidad y genera un círculo virtuoso donde cualquier pyme, cooperativa y autónomo puede ofrecer sus servicios, en igualdad de condiciones.
+En un país donde el 90 % de las empresas son pequeñas y medianas, eso abre un abanico de posibilidades muy amplio.
 
-També permet escollir la gestió municipal de la infraestructura informàtica, sense necessitar especialitzacions en eines privatives a alts costos.
-L'oferta laboral generada, pública o privada, serà accessible a més professionals del territori.
+También permite escoger la gestión municipal de la infraestructura informática, sin necesitar especializaciones en herramientas privativas a altos costes.
+La oferta laboral generada, pública o privada, será accesible a más profesionales del territorio.
 
-* És *socialment just* perquè garanteix els drets fonamentals de la ciutadania.
-L'accés al codi font i el seu control col·lectiu ajuda a saber què fa i auditar que no tingui cap porta del darrera o vulnerabilitats de seguretat.
-La privacitat i	seguretat de les dades resten assegurades.
+* Es *socialmente justo* porque garantiza los derechos fundamentales de la ciudadanía.
+El acceso al código fuente y su control colectivo ayuda a saber qué hace y a auditar que no tenga ninguna brecha o vulnerabilidad en cuanto a seguridad.
+La privacidad y la seguridad de los datos quedan aseguradas.
 
-Amb el programari privatiu, aquests beneficis no existeixen o exigeixen costos econòmics i socials superiors.
+Con el _software_ privativo, estos beneficios no existen o exigen costes económicos y sociales superiores
 
-Des de l'any 2010, el Reial Decret 4/2010 (apartat 04.2) obliga a les Administracions Púbiques a utilitzar estàndards i formats oberts a l'hora de implementar serveis digitals i interactuar amb els ciutadans.
-La llista d'estàndards i formats no és una elecció de cada entitat pública, sinó que existeix un llistat d'estàndards tipificat i normalitzat per la seva interoperabilitat.
-Per tant, les Administracions públiques utilitzaran estàndards oberts a fi de garantir la independència en l'elecció d'alternatives tecnològiques, la preservació de documents en el temps, i l'adaptabilitat al progrés de la tecnologia.
+////
+*Tendencias en estándares abiertos (e.g European in Teroperability Framework, o Rd 4/2010)*
+////
 
-Els documents, serveis electrònics i aplicacions posats per les Administracions públiques a la disposició dels ciutadans o d'altres Administracions públiques seran, segons correspongui, visualitzables, accessibles i funcionalment operables en condicions que permetin satisfer el principi de neutralitat tecnològica i evitin la discriminació als ciutadans per raó de la seva elecció tecnològica.
+Desde el año 2010, existe el Real decreto 4/2010 (apartado 04.2), que obliga a las administraciones públicas a utilizar formatos abiertos a la hora de compartir información con la ciudadanía.
+La lista de formatos no es una elección de cada entidad pública, sino que existe un listado de estándares tipificado y normalizado por su interoperabilidad.
+Por lo tanto, las administraciones públicas utilizarán estándares abiertos con el fin de garantizar la independencia en la elección de alternativas tecnológicas para la ciudadanía y las administraciones públicas y la adaptabilidad al progreso de la tecnología.
 
-Fins fa poc temps les dades tenien una consideració residual i limitada, però la capacitat de procés informàtic ens ha portat a poder aprofitar i reutilitzar les dades.
-Al mateix temps, aquestes dades han augmentat de forma exponencial.
-Aquesta situació fa indispensable, per motius de seguretat, un control de les mateixes i a l'hora un alliberament per potenciar la seva reutilització, amb el convenciment que les dades publiques poden generar negoci i millora social per tota la població.
-La combinació d'eines lliures i dades obertes ens situa a un nou horitzó on la transparència i la voluntat de compartir i treballar de forma comunitària, genera una nova organització de l'administració publica.
+Los documentos, servicios electrónicos y aplicaciones que las administraciones públicas han puesto a disposición de la ciudadanía o de otras administraciones públicas serán, según corresponda, visualizables, accesibles y funcionalmente operables, en condiciones que permitan satisfacer el principio de neutralidad tecnológica y que eviten la discriminación a la ciudadanía en razón de su elección tecnológica.
 
-== Metodologies àgils i programari lliure a altres administracions públiques
+////
+*Tendencias en gestión ética de datos*
+////
 
-*Metodologies àgils*
+Hasta hace poco tiempo los datos tenían una consideración residual y limitada, pero la capacidad de proceso informático nos ha llevado a poder aprovechar y reutilizar los datos.
+Al mismo tiempo, estos datos han aumentado de manera exponencial.
+Esta situación hace indispensable, por motivos de seguridad, un control de los datos y a la vez una liberación para potenciar su reutilización, con el convencimiento de que los datos públicos pueden generar negocio y mejora social para toda la población.
+La combinación de herramientas libres y datos abiertos nos sitúa en un nuevo horizonte en el que la transparencia y la voluntad de compartir y trabajar de forma comunitaria generan una nueva organización de la Administración pública.
+
+== Metodologías ágiles y software libre en otras administraciones públicas
+
+////
+*Metodologías ágiles*
+////
 
 Si be és a l'empresa privada, i en particular a les Pimes, on s'han introduït i desplegat les metodologies àgils, les administracions publiques no son alienes a aquesta tendència.
 Des de el 2012, el govern britànic ho promou footnote:[https://www.gov.uk/service-manual/agile-delivery], així com el Departament de Defensa dels Estats Units.

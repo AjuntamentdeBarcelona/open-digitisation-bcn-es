@@ -1,18 +1,18 @@
-= Introducció i justificació de la mesura
+= Introducción i justificación de la medida
 ifndef::env-site,env-github[]
 include::_attributes.adoc[]
 endif::[]
 include::{partialsdir}/README.adoc[tag=metadata]
 
-L'era digital està modificant profunda i ràpidament la societat i, per tant, el model de relació dels ciutadans amb les empreses i les administracions públiques.
-La convergència entre la transformació digital, la participació ciutadana i la transparència obliga a canviar els models dels organismes públics per a que tinguin la capacitat d'adequar-se a les noves necessitats creades.
-Aquesta transformació representa un gran repte pel que fa a l'Ajuntament, amb una activitat molt regulada per condicionants legals, econòmics i de recursos humans.
+La era digital está modificando la sociedad de forma profunda y rápida y, por lo tanto, el modelo de relación de los ciudadanos con las empresas y las administraciones públicas.
+La convergencia entre la transformación digital, la participación ciudadana y la transparencia obliga a cambiar los modelos de los organismos públicos para que tengan la capacidad de adecuarse a las nuevas necesidades creadas.
+Esta transformación representa un gran reto con respecto al Ayuntamiento, con una actividad muy regulada por condicionantes legales, económicos y de recursos humanos.
 
-El Programa per a la Digitalització Oberta: Programari Lliure i Desenvolupament Àgil de Serveis de l'Ajuntament de Barcelona vol proporcionar una orientació enfocada a servei i a la sobirania tecnològica per revitalitzar la totalitat del consistori, consolidant el govern dels serveis digitals, generant perfils i capacitats en programari lliure i de codi obert i us ètic de les dades i transformant la contractació pública.
-La implementació d'aquest enfocament, basat en metodologies àgils i ús de tecnologies obertes, ha demostrat eficiències en termes de prestació (_performance_) i costos que l'Ajuntament ha d'aprofitar.
+Programa para la digitalización abierta: con _software_ libre y desarrollo ágil de servicios del Ayuntamiento de Barcelona se quiere proporcionar una orientación enfocada al servicio y a la soberanía tecnológica para revitalizar la totalidad del Consistorio, consolidando el gobierno de los servicios digitales, generando perfiles y capacidades en _software_ libre y de código abierto y uso ético de los datos y transformando la contratación pública.
+La implementación de este enfoque, basado en metodologías ágiles y uso de tecnologías abiertas, ha demostrado eficiencias en términos de prestación (_performance_) y costes que el Ayuntamiento debe aprovechar.
 
-En aquesta línia, obre la contractació pública i la fa més transparent, senzilla i objectiva, generant les condicions per la participació d'un conjunt diversificat d'indústria local de talent, potenciant a les petites i mitjanes empreses del país.
-Alhora es revisa, també, els processos contractuals actuals per assegurar la sobirania tecnològica i de les dades.
-Els procediments de contractació també s'han de transformar per tal d'acostarlos a la realitat dels serveis oferts a la ciutadania i fer possible que aquestes mesures es poden aplicar.
+En esta línea, abre la contratación pública y la hace más transparente, sencilla y objetiva, lo que genera las condiciones para la participación de un conjunto diversificado de industria local de talento y potencia las pequeñas y medianas empresas del país.
+Al mismo tiempo se revisan, también, los procesos contractuales actuales para asegurar la soberanía tecnológica y de los datos.
+Los procedimientos de contratación también deben transformarse con el fin de acercarlos a la realidad de los servicios ofrecidos a la ciudadanía y hacer posible que estas medidas se puedan aplicar.
 
-Per tal d'assolir l'objectiu principal i transformar l'Ajuntament de Barcelona en una entitat líder en la digitalització del sector públic, caldrà definir els passos a seguir per avançar i construir serveis públics “digitals per defecte” a Barcelona, oberts, més senzills, modulars, interoperables i que procuraran evitar bloquejos amb proveïdors de solucions propietàries.
+Para alcanzar el objetivo principal y transformar el Ayuntamiento de Barcelona en una entidad líder en la digitalización del sector público, se deben definir los pasos necesarios para avanzar y construir servicios públicos “digitales por defecto” en Barcelona, abiertos, más sencillos, modulares, interoperables y que procurarán evitar bloqueos con proveedores de soluciones propietarias.

@@ -1,25 +1,25 @@
-= Governança del procés de digitalització
+= Gobernanza del proceso de digitalización
 ifndef::env-site,env-github[]
 include::_attributes.adoc[]
 endif::[]
 include::{partialsdir}/README.adoc[tag=metadata]
 
-Aquesta transformació és un procés llarg que requereix de la implicació de l'administració, així com, del sector TIC i de la societat.
-Per tal de que aquest procés aconsegueixi els seus objectius i s'ajusti al calendari establert caldrà que disposi d'una governança específica.
+Esta transformación es un proceso largo que requiere de la implicación de la Administración, así como del sector TIC y de la sociedad.
+Con el fin de que este proceso alcance sus objetivos y se ajuste al calendario establecido deberá disponer de una gobernanza específica.
 
-Per a la governança d'aquest procés s'utilitzaran diversos instruments entre els que podem destacar el Comissionat de Tecnologia i Innovació Digital, la Comissió de Transformació Digital de Barcelona i la Ponència d'Innovació, sense oblidar els altres agents de la ciutat com empreses o representants de la societat civil.
+Para la gobernanza de este proceso se utilizarán diversos instrumentos, entre los que se pueden destacar el Comisionado de Tecnología e Innovación Digital, la Comisión de Transformación Digital de Barcelona y la Ponencia de Innovación, sin olvidar al resto de agentes de la ciudad, como empresas o representantes de la sociedad civil.
 
-Els principals elements de governança són:
+Los principales elementos de gobernanza son los siguientes:
 
-* *Comissionat/da de Tecnologia i Innovació digital.*
-Una de les seves missions és redissenyar i reorientar la tecnologia de Barcelona i les estratègies i polítiques d'innovació digital a través d'un procés amb participació activa d'actors claus de la ciutat.
-Dos dels eixos principals són la digitalització dels serveis públics i l'impuls d'un l'ecosistema innovador digital, que inclou la relació entre les administracions públiques, la ciutadania, les empreses i el món acadèmic.
-El comissionat disposa d'una oficina de seguiment i impuls de projectes que ha d'assegurar la coordinació municipal i mesurar l'impacte de la implementació d'aquest programa.
+* *Comisionado de Tecnología e Innovación Digital.*
+Una de sus misiones es rediseñar y reorientar la tecnología de Barcelona y las estrategias y políticas de innovación digital a través de un proceso con participación activa de actores clave de la ciudad.
+Dos de sus principales ejes son la digitalización de los servicios públicos y el impulso del ecosistema innovador digital, que incluye la relación entre las administraciones públicas, la ciudadanía, las empresas y el mundo académico.
+El comisionado dispone de una oficina de seguimiento e impulso de proyectos que debe asegurar la coordinación municipal y medir el impacto de la implementación de este programa.
 
-* *Comissió de Transformació Digital de Barcelona.*
-És un instrument municipal transversal creat per governar la definició i execució del Pla de Transformació Digital i assegurar el seu alineament amb l'estratègia de l'Ajuntament.
-Dins de la seva funció principal de prioritzar i coordinar les iniciatives TIC de l'Ajuntament, analitzarà també la situació i evolució del programa de digitalització i constituirà un espai de debat, discussió i proposta entre els diferents àmbits i sectors municipals.
+* *Comisión de Transformación Digital de Barcelona.*
+Es un instrumento municipal transversal creado para gobernar la definición y ejecución del PTDA y asegurar su alineación con la estrategia del Ayuntamiento.
+Además de su función principal de priorizar y coordinar las iniciativas TIC del Ayuntamiento, también analizará la situación y evolución del programa de digitalización y constituirá un espacio de debate, discusión y propuesta entre los diferentes ámbitos y sectores municipales.
 
-* *Ponència d'Innovació Digital.*
-És un instrument municipal transversal a les diferents àrees de l'Ajuntament encarregat de fer operatiu el disseny i la implementació de l'estratègia i polítiques d'innovació.
-La seva funció serà, entre altres, assegurar la implicació i l'alineament de les diferents àrees municipals en aquest procés.
+* *Ponencia de Innovación Digital.*
+Es un instrumento municipal transversal a las diferentes áreas del Ayuntamiento, encargado de hacer operativo el diseño y la implementación de la estrategia y las políticas de innovación.
+Su función será, entre otras, asegurar la implicación y la alineación de las diferentes áreas municipales en este proceso.
