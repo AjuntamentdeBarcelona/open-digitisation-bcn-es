@@ -1,0 +1,31 @@
+= Objectius de la mesura
+ifndef::env-site,env-github[]
+include::_attributes.adoc[]
+endif::[]
+include::{partialsdir}/README.adoc[tag=metadata]
+
+La mesura exposa el *Programa per a la Digitalització Oberta: Programari Lliure i Desenvolupament Àgil de Serveis* de l'Ajuntament de Barcelona.
+
+Aquesta mesura es focalitza en aconseguir que l'Ajuntament sigui capaç de desenvolupar de forma àgil serveis digitals centrats en les necessitats reals de la ciutadania, assolir una independència tecnològica basada en programari lliure i l'ús d'estàndards oberts, posar a disposició dels ciutadans dades de l'Administració publica per a que puguin obtenir més valor, i assegurar que puguin accedir a aquests serveis salvaguardant el dret a la privacitat.
+
+Els principals objectius son:
+
+. Focalització en un model de serveis digitals centrat en l'usuari i més col·laboració per generar més valor amb els mateixos recursos.
+
+. Generalització i extensió de metodologies àgils per a la construcció de nous serveis públics digitals.
+
+. Desenvolupament de les capacitats internes per a la gestió àgil dels serveis públics a tot l'Ajuntament.
+
+. Obertura de la contractació pública, fent-la més transparent, senzilla i objectiva.
+
+. Utilització preferent de programari lliure i obert, amb el propòsit de que el seu ús obligatori en el futur per tal d' assegurar la sobirania tecnològica i de les dades.
+
+. Establiment d'una arquitectura oberta i	pràctiques basades en estàndards oberts.
+
+. Revisió dels processos de contractació per a incorporar aquestes objectius i innovacions en les relacions amb el sector industrial.
+
+. Millorar l'accés a dades de l'administració, respectant la privacitat i avaluant els riscos ètics de la ciutat intel·ligent i les grans bases de dades, inclòs el compliment legal de la normativa de protecció de dades, configurant un codi ètic de practica tecnològica i definint una estratègia de dades.
+
+. Desenvolupar noves guies d'adquisició de tecnologia que s'integraran en el marc general del contracte públic i que ha de ser seguit i	implementat per tots els contractes públics i funcionaris administratius de l'Ajuntament.
+
+Finalment es presenten els *projectes emblemàtics*, a través dels quals es comencen a assolir aquests objectius i a implantar les noves pràctiques necessàries per a fer-ho.

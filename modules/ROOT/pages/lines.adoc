@@ -1,0 +1,187 @@
+= Línies d'actuació
+ifndef::env-site,env-github[]
+include::_attributes.adoc[]
+endif::[]
+include::{partialsdir}/README.adoc[tag=metadata]
+
+Sobre cadascun dels temes que s'han indicat en l'apartat anterior, s'han establert unes línies d'actuació, les quals ampliem a continuació, juntament amb les seves accions associades.
+
+== Serveis digitals àgils i centrats en l'usuari
+
+Pel desenvolupament dels serveis digitals i centrat en l'usuari és imprescindible la introducció de les metodologies de desenvolupament àgil.
+
+Durant el primer semestre de 2017 s'han dut a terme les següents accions:
+
+Organització de 4 tallers (eines, gestió àgil, capacitació i cultura i organització) amb personal intern del IMI, desenvolupadors, responsables de servei, responsables sectorials i directius.
+Van participar més de 40 treballadors de les diferents àrees municipals.
+
+Amb la implantació d'aquestes metodologies s'assoliran les línies d'actuació establertes:
+
+* Barcelona transformarà 20 nous serveis digitals (descrits en l'apartat 0.8), segons l'Estàndard de serveis digitals i el Codi de pràctiques tecnològiques.
+
+* Posar major focus en l'usuari final, donant més protagonisme a la *presa de decisions*.
+
+* *Escurçar el temps de desenvolupament* i millorar a la vegada la qualitat tècnica.
+
+* *Oferir més valor públic* tot mantenint el control dels desenvolupaments.
+
+A partir de les línies d'actuació identificades, s'aconseguirà:
+
+* Transformar la cultura organitzativa, promovent la col·laboració i la transparència, essent més flexibles i lliurant més valor públic.
+
+* Implementar la millora continua introduint a l'organització les pràctiques que han de fer que els processos de millora siguin sistèmics.
+
+== Sobirania tecnològica i migració a programari lliure
+
+L'assoliment de la sobirania tecnològica es farà a través de la migració a programari lliure, el desplegament d'estàndards oberts, els canvis en la contractació pública per fomentar el programari de codi obert i la identificació d'oportunitats de migració a arquitectures obertes a curt termini.
+
+Les línies d'actuació vers aquest tema són:
+
+* *Assolir que el 70% de la inversió* en nous desenvolupaments de programari es farà amb codi obert.
+
+* Posar a disposició d'altres municipis i administracions *10 solucions* desenvolupades per l'Ajuntament de Barcelona.
+
+* Incorporar *l'estació corporativa* oberta basada en sistemes i programes oberts al parc municipal.
+
+Durant el primer semestre de 2017 s'han dut a terme les següents accions:
+
+* Identificar oportunitats de desenvolupament i/o migració a arquitectures i sistemes oberts a curt termini.
+
+* Preparació d'un pla de migració i desenvolupament de codi lliure i de codi obert.
+
+* Definició de pautes per a publicar i compartir programari i continguts de l'Ajuntament sota llicències de programari i continguts lliure.
+
+* Introduir en la contractació pública el foment de la creació, ús i reutilització del programari lliure i de codi obert.
+
+* Introduir les directrius a nivell corporatiu per a l'ús d'estàndards oberts per a les tecnologies, dades i altres informacions de la ciutat.
+
+A partir de les línies d'actuació identificades, s'aconseguirà:
+
+* Increment de la sobirania tecnològica.
+
+* Millora de la imatge i posicionament davant de la societat.
+
+* Reducció costos desenvolupament (pocs d'entrada).
+
+* Reducció costos manteniment (efectiu).
+
+* Reducció costos evolutius (notable quan introduïm noves funcionalitats desenvolupades per la comunitat).
+
+* Reducció costos migració a noves solucions (important).
+
+Els projectes emblemàtics en aquest tema, amb un pressupost total de 21,5 milions d'euros i un calendari que va des de el primer trimestre de 2017, fins al final del segon trimestre del 2019, s'inclouen al Pla de Migració a Codi Obert (annex 12.5).
+
+* Migració del correu corporatiu a tecnologies obertes.
+
+* Adaptació de l'estació de treball Windows (Windows 10) amb conjunt d'aplicacions de programari lliure.
+
+* Adopció d'eines per al desenvolupament d'aplicacions basades en tecnologies obertes.
+
+* Estació de treball i escriptori obert.
+
+* Identificador Mobile-ID / e-ID.
+
+* Nous serveis desenvolupats en codi obert.
+
+== Estratègia responsable i ètica de dades
+
+Les dades prenen una rellevància considerable en l'entorn municipal i de ciutat i es fa palesa la necessitat de definir i posar en marxa un nou model transversal de govern de les dades que reforci la sobirania. Donant la seva importància, l'Ajuntament dedicarà una mesura de govern destinada a expressar la política de gestió de dades i la seva implementació a través de totes les unitats de l'Ajuntament.
+
+Indiquem aquí les línies d'acció i projectes que cauran sota l'àmbit d'aquesta pròxima mesura, element essencial del Pla de Transformació Digital.
+
+Les línies d'actuació vers aquest tema són:
+
+* *Disseny i execució* de les accions d'adaptació al nou RGPD pel tractament de les dades de caràcter personal a l'ajuntament de Barcelona.
+
+* *Definició i implantació* dels nous processos que permetin la incorporació de la privacitat and security per defecte i des del disseny en els nous aplicatius informàtics.
+
+* *Establiment del control* proactiu que demana la nova normativa.
+
+* Definició de l'oficina municipal d'anàlisi de dades i de la figura de *Chief Data Office*.
+
+* Creació de la figura *Chief Data Analytics Office* que aporti noves capacitats relacionades amb la millora de dades i l'anàlisi de les mateixes en la protecció de la privacitat interna.
+
+* Crear un programa “*Data Challenges*” per involucrar a les pimes i empreses en la creació d'aplicacions basades en dades per resoldre els reptes de la ciutat.
+
+Durant el primer semestre de 2017 s'ha estat treballant en les següents accions:
+
+* Establiment de les noves regles pel govern de dades.
+
+* Definició d'una arquitectura oberta de dades.
+
+* Plataformes per a l'anàlisi massiu de dades per a polítiques i serveis públics.
+
+* Guia per a l'ús ètic i responsable de les dades, garantint privacitat i sobirania.
+
+A partir de les línies d'actuació identificades, s'aconseguirà:
+
+* Millorar l'eficàcia i eficiència.
+
+* Millorar la presa de decisions.
+
+* Democratitzar l'accés a les dades.
+
+* Crear nous i millors serveis públics.
+
+* Assolit qualitat democràtica, respectant els drets digitals dels ciutadans, la protecció de dades i l'accés a la informació.
+
+* Generar Transparència i rendició de comptes.
+
+* Recuperar la confiança del ciutadà.
+
+Els projectes emblemàtics en aquesta tema, amb un pressupost total de 2,3 milions d'euros i un calendari que va des de el primer trimestre de 2017, fins a mitjans del primer trimestre de 2019.
+
+* Serveis CityOS (contaminació, mobilitat, turisme).
+* Quadre de comandament d'ecologia.
+
+* Observatori de l'Habitatge de Barcelona (OHB).
+
+* DCODE: Projecte de tota la UE per desenvolupar una arquitectura basada en blockchain (cadena de blocs) per a la sobirania de dades.
+
+== Nou model de contractació
+
+Amb l'assoliment del objectiu principal del nou model de contractació, indicat en el punt 06.5, es podrà garantir la sobirania tecnològica i de les dades, es fomentarà la innovació tecnològica i es farà palanca en la transformació socioeconòmica.
+
+Les línies d'actuació vers aquest tema:
+
+* *Nou marc de contractació:* Conceptualització de la nova orientació en la contractació.
+
+* *Implementació de la Guia Compra TIC:* Guia que facilita una visió global de l'estratègia municipal i facilita l'aplicació de les diferents mesures.
+
+* *Implementació de la Guia Compra innovació:* Guia que orienta al seu lector a considerar la innovació com a element fonamental indissociable i potenciador de les compres sostenibles.
+
+* *Redacció de documents per a “Plecs Tipus”*: Estandardització i agilitat en la contractació.
+
+* *Creació del “Digital Marketplace”*: Espai de diàleg continu i interrelació entre proveïdors, ciutadans i l'Ajuntament.
+
+* *Comunicació i Difusió:* Accions de difusió sobre el procés de transformació i l'estratègia municipal pel que fa a la contractació.
+
+Durant el primer semestre de 2017 s'han dut a terme les següents accions:
+
+* Redacció de la guia de compra de tecnologia i de la guia de compra d'innovació.
+
+* S'ha iniciat ja la preparació dels plecs tipus.
+
+* S'han organitzat sessions de treball amb el sector TIC per l'enriquiment de les mesures vinculades a la compra de tecnologia.
+
+* Prospeccions per a construir una plataforma de mercat digital (Marketplace).
+
+Els projecte emblemàtic en aquesta tema, amb un pressupost total de 22 mil euros i un calendari que va des de l'inici del segon trimestre de 2017, fins a finals del primer trimestre de 2018.
+
+* Digital Marketplace.
+
+== Cultura i organització del canvi
+
+Per a la transformació dels equips existents s'està realitzant entre d'altres actuacions, una pla de capacitació del personal intern, amb tallers orientats a la organització, la capacitació i la cultura, la gestió àgil i l'aprenentatge d'eines.
+
+De forma paral·lela, dins el primer semestre del 2017 també s'ha iniciat un procés de cobertura de 64 noves places de tècnics informàtics (superiors i mitjans), a través de 2 borses de treball.
+Es preveu que aquest procés durarà fins a finals del 2017 i la incorporació de les persones es realitzarà durant el primer semestre del 2018.
+
+També està prevista una reestructuració orgànica que preveu la creació de 16 nous departaments, d'acord amb criteris de diferenciació per àmbits sectorials per especialització tècnica, que reforçarà el comandament, l'assumpció de responsabilitats pels comandaments intermitjos i la coordinació dels diferents grups de treball.
+
+Per finalitzar, indicarem que els projectes emblemàtics que s'han apuntat en cadascuna de les línies d'actuació i que es detallen en l'apartat 08, formen part del Pla de Mandat que es conforma de 3 plans:
+
+Sectorial, de Llei i Tecnològic, tal i com es reflexa a continuació (Figura 4).
+També hi podem observar l'estat d'execució dels mateixos, així com el grau d'execució del pressupost de 2017.
+
+image::open-digit-p30-roadmap-ca.svg[_FIGURA 4: Composició i execució del Pla de Mandat_]

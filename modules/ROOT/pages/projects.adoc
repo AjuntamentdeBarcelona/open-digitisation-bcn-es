@@ -1,0 +1,96 @@
+= Projectes emblemàtics dins les línies d'actuació
+ifndef::env-site,env-github[]
+include::_attributes.adoc[]
+endif::[]
+include::{partialsdir}/README.adoc[tag=metadata]
+
+La introducció dels canvis que es deriven del desenvolupament d'aquest programa de digitalització oberta i desenvolupament de serveis àgils, s'efectua de forma gradual en un conjunt de projectes, que s'han anunciat en l'apartat anterior, que per aquesta raó anomenem projectes emblemàtics.
+
+Aquests projectes seran pioners en l'aplicació de les noves pràctiques, ja es tracti de metodologies de desenvolupament àgils ja sigui en l'ús de solucions basades en programari obert, l'aplicació d'estàndards oberts o la implementació de les recomanacions derivades de la nova estratègia de dades.
+
+Així doncs, en aquesta secció presentem la totalitat de projectes emblemàtics d'aquest programa de digitalització, fent una breu descripció de cadascun d'ells:
+
+. *Quadre de comandament per a la gerència municipal.*
+A més del desenvolupament d'un quadre de comandament per a l'equip de govern, es desenvoluparà una aplicació lliure i oberta pels ciutadans que reflectirà els indicadors estratègics de manera sintetitzada i aportarà dades dels serveis de l'ajuntament amb indicadors de gestió dels seus projectes, el grau d'acompliment dels compromisos del govern, valoració dels ciutadans, etc.
+Aquest servei representa un pas important envers la transparència en la gestió municipal i l'escrutini públic.
+
+. *Portal d'Atenció Ciutadana.*
+Es renovarà el portal de tràmits per als ciutadans
+i empreses a Barcelona amb l'objectiu de simplificar el seu accés i utilització i reduir la documentació requerida acomplint amb les normes del procediment administratiu.
+El ciutadà percebrà una clara millora en la usabilitat dels serveis digitals del portal i una simplificació en la tramitació.
+
+. *Serveis Municipals al mòbil.*
+Reducció del nombre de web apps.
+Es tracta de simplificar l'ús del portal per guanyar en usabilitat.
+S'eliminaran les aplicacions obsoletes, s'unificaran aplicacions i s'introduiran noves eines de codi obert i s'incrementarà l'ús de les dades obertes. Es desenvoluparà un conjunt de noves web apps adaptatives que es posaran a disposició del ciutadà.
+
+. *Decidim Barcelona.*
+Desenvolupament de la Fase 3 de la plataforma de participació ciutadana que inclou funcions de multiconsulta.
+Millorarà el serveis de participació que des de l'Ajuntament s'han posat a disposició de la ciutadania.
+
+. Sistema d'informació de drets socials.
+Part del nou sistema d'informació de la Gerència de Drets Socials es desenvoluparà amb les noves metodologies.
+D'aquesta forma s'accelerarà el desenvolupament dels nous serveis digitals i l'eficiència dels serveis públics associats.
+
+. *ASIA.*
+Nova agenda d'esdeveniments i equipaments de la ciutat.
+Aquest és un dels serveis digitals més utilitzats actualment per la ciutadania.
+Se'n millorarà el rendiment i la usabilitat.
+
+. Sistema d'informació del Institut Barcelona Esports.
+Una part de les aplicacions que conformen el nou sistema d'informació de l'Institut Barcelona Esports, entre elles el nou cens d'equipaments esportius, es desenvoluparà seguint les noves metodologies àgils.
+El ciutadà que percebrà una millora en els serveis prestats per aquest institut.
+
+. *E-administració.*
+Conjunt d'aplicacions i serveis digitals per adaptar la tramitació administrativa al nou marc legal.
+Una part d'aquests aplicacions es construiran ja amb la nova metodologia de desenvolupament àgil.
+La simplificació de les tramitacions municipals serà el benefici més tangible pel ciutadà que apreciarà la reducció de la burocràcia i la millora dels temps de resposta.
+
+. *Migració del correu corporatiu a.*
+Es substituiran els servidors de correu Microsoft Exchange per una alternativa de codi obert.
+Es substituirà l'aplicació d'accés al correu electrònic però es mantindrà el Microsoft Outlook en les estacions de treball que actualment l'utilitzen (20% dels usuaris).
+La millora del servei impacta a tota l'organització municipal.
+
+. *Nova estació de treball amb aplicacions de programari lliure i obert.*
+Es tracta de substituir el màxim d'aplicacions propietàries que actualment s'utilitza en els diferents llocs de treball de l'ajuntament per aplicacions basades en programari lliure i obert però sense substituir la plataforma o sistema operatiu Microsoft Windows.
+
+. *Adopció d'eines per al desenvolupament d'aplicacions basades en tecnologies obertes.*
+Es pretén implementar un conjunt d'eines que permeti als tècnics desenvolupar aplicacions en codi obert i utilitzar eines de gestió dels desenvolupaments basats en tecnologies obertes.
+
+. *Escriptori obert.*
+S'anirà migrant progressivament les estacions de treball que actualment tenen instal·lades aplicacions i sistemes operatius privatius cap a estacions amb 100% codis oberts.
+
+. *Identificador Mobile-ID / e-ID.*
+Actualment hi ha 18.000 usuaris de l'identificador mòbil amb més de 2.000 sessions de treball setmanals.
+S'actualitzarà el servei i s'incorporaran nous mecanismes d'autenticació.
+El primer beneficiari d'aquest servei és la ciutadania que disposarà d'una eina que li facilitarà l'ús dels diferents serveis digitals que ofereix l'Ajuntament.
+
+. *Serveis desenvolupats en codi obert.*
+Diverses aplicacions de les utilitzades per l'Ajuntament seran desenvolupades interna i/o externament en codi lliure i obert.
+Aquestes aplicacions o serveis s'oferiran a la comunitat per a que qualsevol administració pública les pugui utilitzar, per a que qualsevol desenvolupador o empresa TIC pugui desenvolupar i afegir noves funcionalitats.
+Cal valorar que actualment l'Ajuntament ja està desenvolupant i utilitzant aplicacions de codi obert com el portal d'Open Data, la plataforma d'internet de les coses Sentilo, el banc d'imatges BIMA o la plataforma de participació Decidim Barcelona.
+
+. *Serveis City OS.*
+És una plataforma d'analítica avançada de dades amb una visió unificada d'informació de la ciutat, basada en productes lliures i de codi obert que s'oferirà a la comunitat per detectar problemes, escurçar els temps de resposta i millorar els serveis públics.
+Les diferents gerències i direccions de servei podran utilitzar aquesta plataforma de dades per a realitzar una anàlisi de la informació més acurat i dictar així millors polítiques públiques.
+
+. *Quadre comandament d'ecologia.*
+Es desenvoluparà un quadre de comandament que integri els àmbits de medi ambient, urbanisme, infraestructures, mobilitat i serveis urbans que aportarà una millor presa de decisions.
+
+. *Observatori de l'Habitatge de Barcelona (OHB)*
+Es crearà un repositori de big data especialitzat en habitatge que permetrà analitzar les dades i establir polítiques públiques per combatre els problemes actuals en l'habitage.
+
+. *DCODE.*
+És un projecte pilot europeuque es desenvolupa a Barcelona i Amsterdam per a gestionar la sobirania de les dades per l'economia compartida.
+Les solucions tècniques que desenvolupa aquest projecte serviran per oferir millors serveis als ciutadans, més segur i a la vegada garantir millor la propietat i control de les seves dades.
+
+. *Digital Marketplace.*
+Creació de mercat digital per facilitat l'accés de les petites empreses a la contractació pública.
+
+. *IRIS.*
+Desenvolupament de la nova versió del servei multicanal d'Incidències, Reclamacions i Suggeriments que gestiona les peticions de servei, avisos, incidències i reclamacions dels ciutadans des de l'any 2003.
+Aquesta nova versió es desenvoluparà íntegrament en programari de codi obert i es cedirà a la comunitat.
+
+Calendari d'execució dels projectes exemplars relacionats amb l'aplicació de les metodologies àgils i l'ús de programari i estàndards oberts (Figura 5):
+
+image::open-digit-p33-schedule-{lang}.svg[_FIGURA 5: Calendari d'execució_]

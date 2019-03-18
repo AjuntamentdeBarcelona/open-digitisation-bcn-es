@@ -1,0 +1,181 @@
+= Temes i objectius
+ifndef::env-site,env-github[]
+include::_attributes.adoc[]
+endif::[]
+include::{partialsdir}/README.adoc[tag=metadata]
+
+Per aconseguir els objectius del Programa per a la Digitalització Oberta: Programari Lliure i Desenvolupament Àgil de Serveis caldrà treballar per lliurar serveis digitals àgils i centrats en l'usuari, mitjançant tres eixos principals d'acció:
+
+* Enfortir la *sobirania tecnològica*, a través de l'adopció de programari lliure i la contractació pública oberta.
+
+* Adoptar les *metodologies àgils*, introduint un marc de treball àgil.
+
+* Millorar el *govern de dades*, mitjançant una nova estratègia de dades.
+
+Això es farà mitjançant un conjunt d'actuacions en cadascun dels temes que conformen el programa (Figura 2).
+
+image:open-digit-p20-areas-{lang}.svg[_FIGURA 2: Àrees d'actuació_]
+
+== Serveis digitals àgils i centrats en l'usuari
+
+Cal canviar la forma de dissenyar i construir els nous serveis públics pensantlos ja com a digitals des de bon principi, és el que en el món anglosaxó s'anomena “digital first” (digital des del seu inici).
+Cal dissenyar-los posant el ciutadà al centre i construintlos de forma àgil i gradual per a reduir els temps d'espera per a la posada en marxa.
+Cal que els treballadors municipals responsables del servei, així com els ciutadans, participin activament en el disseny, construcció i manteniment d'aquests serveis.
+Aquest procés de canvi, inspirat en els exemples de les administracions anglosaxones, proporcionarà nous serveis públics més ajustats a les necessitats reals de la ciutadania tot reduint el temps de desenvolupament.
+
+Els serveis digitals àgils són el punt de partida per assolir els objectius d'aquest programa de digitalització.
+Aquests permeten als ciutadans, empreses i organitzacions relacionar-se amb el govern de la ciutat de forma més fàcil, ràpida i econòmica, doncs seran serveis senzills, ràpids, interactius i disponibles arreu i sempre, serveis que hauran estat dissenyats per satisfer les necessitats de la ciutadania i dels treballadors treballadores municipals.
+Desenvoluparem serveis pensats en digital des del seu inici i fàcilment adaptables a les noves necessitats.
+
+== Metodologies àgils
+
+Les metodologies àgils aportaran les eines necessàries per a dissenyar, construir i prestar de manera flexible i eficient els serveis digitals als ciutadans i als treballadors municipals.
+
+La introducció d'un marc de treball àgil, necessitarà:
+
+* La creació d'equips multidisciplinaris.
+
+* La visió global de tot el cicle de vida del servei.
+
+* La introducció progressiva de metodologies àgils.
+
+* La implicació de tota l'organització.
+
+* La realització de projectes pilot.
+
+* La millora contínua a partir de les aportacions de totes les parts.
+
+A partir de les línies d'actuació identificades, detallades en el punt 07, s'aconseguirà:
+
+* Posar major focus en l'usuari final empoderant a l'usuari per a la presa de decisions.
+
+* Escurçar el temps de desenvolupament i millorar a la vegada la qualitat tècnica.
+
+* Augmentar la freqüència de millores i implementar la millora continua.
+Lliurar més freqüentment, de manera fiable, per avançar el retorn de la inversió, i sistematitzar la millora continua basada en cicles curts d'inspecció i adaptació.
+
+* Posar focus en la col·laboració i transparència.
+
+* Incrementar l'orientació al valor mantenint el control dels desenvolupaments, essent més flexibles i lliurant més valor a l'usuari final.
+
+EEls projectes emblemàtics en aquesta tema, amb un pressupost total de 7 milions d'euros i un calendari que va des de mitjans del segon trimestre de 2017, fins al final del segon trimestre del 2019.
+
+* Quadre de Comandament per a la gerència municipal.
+
+* Portal d'Atenció ciutadana.
+
+* Serveis Municipals al mòbil.
+
+* Decidim.Barcelona.
+
+* Sistema d'informació de drets socials.
+
+* ASIA.
+
+* Sistema d'informació del Institut Municipal d'Esports.
+
+* E-administració.
+
+== Sobirania tecnològica i Tecnologies obertes
+
+Barcelona exigeix la seva sobirania tecnològica, i afronta amb decisió la transició a programari lliure i estàndards oberts per aquesta finalitat.
+S'ha establert un codi de bones pràctiques sobre tecnologies obertes que guiarà la transformació interna, promourà la reutilització i la compartició de codi amb i de tercers, i el desenvolupament i/o utilització de solucions de govern comuns.
+La transició a codi i estàndards oberts té per objectiu reforçar la sobirania tecnològica, i comença amb el Pla de Migració a Codi Obert (annex 12.5).
+
+Els sistemes basats en programari lliure i estàndards oberts ofereixen múltiples beneficis:
+
+* *Transparència*: el codi font pot ser examinat i auditat per qualsevol que tingui els coneixements tècnics suficients, sense necessitat de permís explícit del fabricant o de l'Ajuntament.
+Sense aquesta propietat es fa difícil confiar en la neutralitat i seguretat d'una quantitat creixent de processos governamentals i administratius que es troben implementats en forma de software, com els processos de votació.
+
+* *Interoperabilitat*: l'ús de formats i estàndards oberts permet que diferents sistemes, possiblement de diferents fabricants, funcionin conjuntament sense obstacles legals i tècnics.
+Això obre possibilitats d'integració entre diferents sistemes, per exemple per reutilitzar dades i millorar processos.
+També garanteix que no s'obliga als ciutadans i ciutadanes a utilitzar solucions tecnològiques de proveïdors específics per interactuar amb l'Administració.
+
+* *Sobirania*: la transparència i la interoperabilitat redueixen molt la dependència respecte d'estratègies comercials dels fabricants.
+L'usuari, en aquest cas l'Ajuntament, pot decidir amb més llibertat quins sistemes evolucionar, redimensionar o substituir, així com establir polítiques pròpies en quant a seguretat, privacitat, actualitzacions i accés als sistemes.
+En el cas de les organitzacions, la sobirania també fomenta el control sobre els processos propis i la generació i conservació de coneixement.
+
+* *Flexibilitat*: els sistemes poden adequar-se millor a les necessitats dels usuaris i usuàries, i es poden adaptar i estendre a mida que aquestes necessitats evolucionen, sense dependre de cap proveïdor concret.
+No només el desenvolupament és més flexible, també l'avaluació d'alternatives resulta més senzilla i barata, i les condicions d'operació i manteniment es poden modificar més fàcilment.
+
+* *Sostenibilitat*: la interoperabilitat permet que es puguin substituir aquelles parts dels sistemes que cal renovar sense que les dades no quedin mai inservibles.
+Una major sobirania implica també un menor risc d'obsolescència de qualsevol part dels sistemes, inclòs el hardware.
+La col·laboració (entre persones i entitats) que promouen les llicències lliures pot ser de gran ajuda a l'hora de fer més estable i durador un sistema.
+
+* *Eficiència*: factors com l'estalvi de costos associats al pagament de llicències, una major competència entre proveïdors, un menor risc d'obsolescència, i la possibilitat de compartir costos amb altres usuaris i entitats, fan que el programari lliure i basat en estàndards oberts sigui la millor opció per garantir l'eficiència que la llei exigeix a l'Administració.
+La ingent base de programari combinable existent permet en molts dominis aconseguir solucions molt adaptades a l'usuari final amb un baix ús de recursos.
+
+* *Fiabilitat i seguretat*: la independència d'estratègies comercials fa que l'usuari pugui exigir serveis de major qualitat i aprofitar-se de totes les correccions i millores aportades per la comunitat d'usuaris i desenvolupadors de cada eina.
+
+* *Innovació*: la transparència, i una afortunada combinació de col·laboració i competència, fan del programari lliure un terreny enormement fèrtil per la innovació tecnològica, social i de processos.
+D'aquesta producció de coneixement se'n beneficien directament els productors i els usuaris, i indirectament tota la societat.
+
+Els principals punts ens els que s'hauria de treballar són:
+
+* Implementar un pla de migració i desenvolupament progressiu de programari lliure.
+
+* Publicar i compartir programari i continguts de l'Ajuntament de Barcelona sota llicències de programari i continguts lliures.
+
+* Transformar la contractació pública per fomentar la creació, ús i reutilització del programari lliure i de codi obert.
+
+* Exigir l'ús d'estàndards oberts per a les tecnologies, dades i altres informacions de la ciutat.
+
+* Identificar oportunitats de desenvolupament i/o migració a arquitectures i sistemes oberts a curt i mig termini.
+
+La Guia de Sobirania Tecnologia (veure annex 12.4) és el document de referencia en aquest tema.
+
+
+== Estratègia responsable de Dades
+
+Les dades son cada cop més importants per a les ciutats doncs permeten definir millors polítiques públiques per a combatre les desigualtats socials, fomentar el desenvolupament i millorar la qualitat de vida de la ciutadania.
+El creixement exponencial de les dades i la ràpida evolució de la tecnologia promouen l'aparició de nous models de serveis i generen canvis d'hàbits profunds.
+Aquest escenari requereixen adequar de forma flexible i constant les organitzacions TIC i com gestionen les dades que manipulen.
+
+S'obre una nova etapa on les dades prenen una rellevància considerable en l'entorn municipal i de ciutat i es fa palesa la necessitat de definir i posar en marxa un nou model de govern de les dades municipal que actuï amb sobirania i sigui transversal a tot l'Ajuntament.
+
+Això implica canvis organitzatius, de funcions i responsabilitats, i fan necessari la creació a l'Ajuntament de la figura del responsable de les dades o Chief Data Officer (CDO).
+
+Els principals aspectes que caldrà aprofundir aquest àmbit són:
+
+* Noves regles pel govern de les dades.
+
+* Arquitectura oberta de dades.
+
+* De les dades a la informació, de la informació als indicadors de ciutat.
+
+* Ús ètic i responsable de les dades per a la innovació.
+
+* Privacitat i sobirania.
+
+La “Directiva de Dades” per a la Ciutat es publicarà amb la pròxima mesura de govern sobre la gestió de dades a Barcelona, on s'establiran de manera transversal no nomes la política de gestió responsable i ètic de dades, amb la estructura municipal de gestió de dades, una Oficina y responsables de dades, etc., si no també els processos i obligacions per al màxim compliment la normativa de protecció de dades i la millora de la seguretat.
+
+== Transformació de la Compra Pública de TIC
+
+Com eix transversal per enfortir l'assoliment dels objectius i els anteriors temes indicats, s'han de canviar els processos i les pràctiques habituals en la compra de tecnologia per adaptar-ho a les metodologies àgils a implantar, a la transició al programari lliure i estàndards oberts i a la nova estratègia de dades.
+
+La nova contractació de tecnologia serà oberta, transparent i més àgil.
+Ampliarà el ventall de proveïdors que hi poden accedir, facilitant la contractació de solucions en codi obert i d'estàndards oberts.
+A més, considerarà els aspectes de propietat de les dades, i privacitat, tot observant el compliment de la regulació legal de protecció de dades i incloent l'avaluació del risc ètic en l'ús de les dades.
+Com a resultat tindrem nous processos de contractació, guies d'adquisició de tecnologia i nous serveis digitals tant per a les empreses potencials proveïdors com per la ciutadania i pels equips municipals de contractació.
+
+Es generaran nous enfocs, noves normes i noves eines per tal de disposar de:
+
+* Processos de compra més fàcils.
+
+* Contractació oberta amb processos més transparents.
+
+* Guies per la contractació de solucions i serveis basats en tecnologies obertes i el desenvolupament de metodologies àgils.
+
+* Plataforma de mercat digital per facilitar l'accés a proveïdors petits i locals.
+
+La Guia de Compra Pública de Tecnologia (veure annex 12.6) i en la Guia de Compra Pública Innovadora (veure annex 12.7) són els documents de referencia en aquest tema.
+
+== Capacitat, cultura i gestió del canvi organitzatiu
+
+La transformació ajuda als equips existents a capacitar-se i desenvolupar-se, convertint-los en equips interns ben preparats amb habilitats i capacitats per prendre la plena propietat dels serveis digitals de la ciutat, les dades, les decisions arquitectòniques i de compra.
+
+Aquestes capacitats i habilitats estaran recolzades per un conjunt de comportaments i pràctiques (cultura organitzativa) i una estructura organitzativa que orientant-los a serveis, faciliti la col·laboració dels equips amb el suport puntual d'equips externs que puguin complementar i enriquir el coneixement dels recursos interns i obrir noves oportunitats professionals.
+
+A continuació (Figura 3), es mostren els resultats més importants, que ja s'han assolit, en les àrees d'actuació descrites.
+
+image::open-digit-p25-guides-{lang}.svg[FIGURA 3: Guies]

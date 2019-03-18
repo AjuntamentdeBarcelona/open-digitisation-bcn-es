@@ -1,0 +1,25 @@
+= Governança del procés de digitalització
+ifndef::env-site,env-github[]
+include::_attributes.adoc[]
+endif::[]
+include::{partialsdir}/README.adoc[tag=metadata]
+
+Aquesta transformació és un procés llarg que requereix de la implicació de l'administració, així com, del sector TIC i de la societat.
+Per tal de que aquest procés aconsegueixi els seus objectius i s'ajusti al calendari establert caldrà que disposi d'una governança específica.
+
+Per a la governança d'aquest procés s'utilitzaran diversos instruments entre els que podem destacar el Comissionat de Tecnologia i Innovació Digital, la Comissió de Transformació Digital de Barcelona i la Ponència d'Innovació, sense oblidar els altres agents de la ciutat com empreses o representants de la societat civil.
+
+Els principals elements de governança són:
+
+* *Comissionat/da de Tecnologia i Innovació digital.*
+Una de les seves missions és redissenyar i reorientar la tecnologia de Barcelona i les estratègies i polítiques d'innovació digital a través d'un procés amb participació activa d'actors claus de la ciutat.
+Dos dels eixos principals són la digitalització dels serveis públics i l'impuls d'un l'ecosistema innovador digital, que inclou la relació entre les administracions públiques, la ciutadania, les empreses i el món acadèmic.
+El comissionat disposa d'una oficina de seguiment i impuls de projectes que ha d'assegurar la coordinació municipal i mesurar l'impacte de la implementació d'aquest programa.
+
+* *Comissió de Transformació Digital de Barcelona.*
+És un instrument municipal transversal creat per governar la definició i execució del Pla de Transformació Digital i assegurar el seu alineament amb l'estratègia de l'Ajuntament.
+Dins de la seva funció principal de prioritzar i coordinar les iniciatives TIC de l'Ajuntament, analitzarà també la situació i evolució del programa de digitalització i constituirà un espai de debat, discussió i proposta entre els diferents àmbits i sectors municipals.
+
+* *Ponència d'Innovació Digital.*
+És un instrument municipal transversal a les diferents àrees de l'Ajuntament encarregat de fer operatiu el disseny i la implementació de l'estratègia i polítiques d'innovació.
+La seva funció serà, entre altres, assegurar la implicació i l'alineament de les diferents àrees municipals en aquest procés.

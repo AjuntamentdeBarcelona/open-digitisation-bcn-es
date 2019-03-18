@@ -1,0 +1,158 @@
+= El Programa per a la Digitalització Oberta: Programari Lliure i Desenvolupament Àgil de Serveis
+ifndef::env-site,env-github[]
+include::_attributes.adoc[]
+endif::[]
+include::{partialsdir}/README.adoc[tag=metadata]
+
+== Declaració i principis de la missió
+
+*Els serveis públics de l'Ajuntament s'han de dissenyar “digitals des del inici”, posant la ciutadania al centre del procés de disseny i aportant més valor públic.*
+*Els serveis s'han de construir de forma més àgil i alhora oberta, han de ser més senzills, modulars i interoperables.*
+*A la vegada, cal evitar dependències amb venedors i proveïdors de solucions propietàries específiques i per això cal potenciar el desenvolupament, l'ús i la reutilització del programari lliure i de codi obert i estàndards oberts.*
+*Els serveis han de ser usables i accessibles a tothom, inclosos els ciutadans amb baix nivell de capacitats digitals o persones amb tot tipus de discapacitats.*
+
+El *Programa per a la Digitalització Oberta:*
+*Programari Lliure i Desenvolupament Àgil de Serveis* proporciona una orientació enfocada al servei digital per revitalitzar l'Ajuntament com a referent per a la innovació i excel·lència tecnològica.
+Aportarà serveis digitals de qualitat, ajustats a les necessitats dels ciutadans i orientats a salvaguardar el dret a la privacitat dels ciutadans (privacitat de les dades), serveis que, fent ús del programari lliure i de codi obert i estàndards oberts trencaran la dependència de formats, productes i solucions propietàries (sobirania tecnològica).
+
+Els serveis públics digitals han d'esdevenir veritables actius de la societat actual possibilitant la seva reutilització en altres ciutats.
+I per això calen actuacions també en l'àmbit de la compra pública de tecnologia que fomentin un enfocament més madur per la provisió de tecnologia al sector públic, proposant models de contractació multiproveïdor que promoguin la competència i la diversitat de proveïdors, facilitin l'adopció de noves tecnologies innovadores s'allunyin dels grans contractes, creant així un nou mercat per a pimes innovadores.
+
+Alhora, el programa genera perfils i capacitats en disseny centrats en l'usuari i metodologies àgils per flexibilitzar i accelerar el desenvolupament i execució d'aquests servei, i al mateix temps, obre la contractació publica i la fa més transparent, senzilla i objectiva proporcionant així un camí vers la sobirania tecnològica i de les dades.
+
+El programa que estableix un marc per a obtenir una arquitectura oberta i dissenys basats en estàndards oberts, s'implementarà mitjançant un conjunt de canvis incrementals amb una clara estructura de govern, orientats a resultats, amb mètriques i indicadors clars i un full de ruta compartit.
+
+Com a punt de partida, el programa defineix els principis bàsics que han de guiar el desenvolupament dels nous serveis.
+Aquests principis queden recollits en el “decàleg” anomenat “*L'Estàndard de Serveis Digitals*” (vegeu annex 12.1):
+
+* *Equips multi disciplinaris per serveis.*
+S'estableix un equip sostenible multidisciplinari que pot dissenyar, construir i fer operatiu el servei, que està liderat per un responsable de servei sènior que està qualificat per aquesta feina i que té responsabilitat per prendre decisions.
+
+* *Començar amb les necessitats dels usuaris.*
+Cal entendre les necessitats de l'usuari i investigar per desenvolupar més coneixement sobre qui són els usuaris de servei i	el que això significa per al disseny del servei.
+
+* *Fer servir metodologies de desenvolupament àgil i construir de manera iterativa.*
+Construir el servei fent servir mètodes àgils, iteratius i centrats en l'usuari.
+
+* *Reduir la càrrega sobre els ciutadans.*
+Es farà servir la informació ja existent als sistemes municipals en les noves interaccions amb els ciutadans i s'interoperarà amb altres administracions públiques per reunir la informació necessària i evitar haver de demanar als ciutadans que la tornin a aportar.
+S'eliminaran els documents innecessaris en la versió digital del servei i l'ajuntament s'assegurarà de que els ciutadans donin el seu consentiment per a l'ús dels seus documents personals.
+
+* *Seguir les directrius sobre disseny visual i accessibilitat.*
+Es construirà un servei coherent amb l'experiència de l'usuari de la resta de l'Ajuntament de Barcelona, a propòsit de les directrius de disseny visual i d'accessibilitat existents.
+
+* *Disposar d'un pla per a les persones que necessiten ajuda digital.*
+Es fomentarà entre tots els usuaris l'ús del servei digital, també es faran plans per a les persones que per qualsevol raó no poden accedir als serveis digitals sense suport.
+En el cas de prestar un servei essencial, caldrà assegurar que l'ajuntament s'adapti als ciutadans que no tenen dispositius digitals.
+
+* *Pensar amb la seguretat, la privacitat i els aspectes ètics.*
+S'avaluaran quines dades de l'usuari i informació seran proveïdes o emmagatzemades al servei digital, i tractar el nivell de seguretat, responsabilitats legals, assumptes de privacitat i els riscos associats amb el servei. (consultar amb experts en el seu cas).
+
+* *S'utilitzarà programari obert i estàndards oberts.*
+Es farà servir programari obert i estàndards oberts sempre que sigui possible. Així mateix, es farà que tot el nou codi sigui obert i reutilitzable perquè es publiqui sota les llicències adequades.
+
+* *Disposar d'un pla per ser digitals.*
+Caldrà assegurar que els serveis digitals proporcionin mitjans digitals als ciutadans per tal de proveir, signar i verificar els seus documents.
+En cas de que hi hagi ciutadans que no poden proveir recursos digitals per ells mateixos, caldrà garantir que hi ha un servei disponible a l'Ajuntament per tal de digitalitzar aquests documents.
+
+* *Fer un pla per estar fora de línia en cas d'imprevistos.*
+Es disposarà d'un pla per quan el servei digital pugui estar temporalment inoperatiu, ja que els usuaris esperaran que un servei en línia estigui disponible les 24 hores del dia, els 365 dies de l'any.
+
+* *S'avaluaran les eines, els sistemes i els serveis.*
+Es farà l'avaluació per assegurar que es segueix el codi tecnològic de conducta i s'entenen els riscos tècnics associats.
+
+* *Reutilització de la infraestructura existent i de les funcions compartides en la mesura que sigui possible.*
+Es crearà una experiència de servei coherent que permeti estalviar temps i recursos de la reconstrucció de funcionalitats ja existents.
+
+* *Definició d'un pla de gestió del canvi per a la transició del servei.*
+Hi haurà plans de serveis de continuïtat per tal de facilitar la transició entre el servei no digital actual i el nou servei digital.
+S'ha d'evitar qualsevol interrupció en l'accés al servei per part dels ciutadans.
+
+* *Escolta i avaluació contínua de l'usuari.*
+Es posarà en marxa un pla per a la escolta contínua dels usuaris i la realització de proves d'usabilitat a fi de recollir de forma continuada l'opinió dels usuaris i poder millorar així el servei.
+
+* *Mesurar i publicació del resultat del servei.*
+S'identificaran els indicadors d'acompliment del servei, establint un punt de referència per a cada mètrica i fent un pla per permetre millores.
+
+* *Feu un pla per al manteniment i el servei del servei digital.*
+Hi haurà un pla de “resposta i	d'escalada” per reduir al mínim la interrupció del servei quan es produeixin incidents.
+
+L'Ajuntament de Barcelona ha editat un pòster informatiu amb informació més detallada per la divulgació de l'Estàndard de Serveis Digitals. Aquest pòster es pot veure a l'annex 12.1 que acompanya aquesta mesura.
+
+== Prioritats i mètodes per la creació de serveis digitals
+
+Per al millor desenvolupament del programa de digitalització i obtenir serveis digitals publics, oberts, interoperables, ètics i àgils s'han identificat les següents quatre grans àrees d'actuació:
+
+* Metodologies àgils en el lliurament de serveis digitals.
+
+* Sobirania Tecnològica (programari lliure i estàndards oberts).
+
+* Sobirania i ús responsable de les dades.
+
+* Nou model de Contractació pública.
+
+Si bé el programa és transversal, i implica tant l'IMI com a totes les unitats de la ciutat, cada àrea d'actuació serà liderada per un equip diferent.
+Es basa en els nostres esmentats estàndards de serveis i un nou codi de pràctiques tecnològiques recolzat per una guia per a la introducció de les metodologies àgils i una guia per a la transició al programari lliure i de codi obert (programari, maquinari, sistemes oberts).
+Les guies de contractació pública oberta i de compra innovadora completen el marc documental per a desplegar el programa.
+La propera mesura de govern sobre la gestió de dades a la ciutat de Barcelona expressarà l'estratègia d'ús responsable i ètic de dades i la seva implementació concreta.
+
+Aquesta transformació és interna i per tant el procés ha de ser liderat des del propi Ajuntament, implicant el propi equip humà, treballant per evolucionar la capacitat per adquirir habilitats i resultats.
+Puntualment caldrà el suport d'experts externs del sector que juntament amb la formació i rodatge dels nous equips àgils ajudaran a comprendre les capacitats i competències que es necessitaran en un futur immediat.
+Es desenvoluparà un pla de contractació i un programa de creació d'habilitats per fer front a aquestes necessitats i poder mantenir la transformació viva.
+Aquest procés generarà un forta implicació interna.
+
+Tot el procés de transformació es durà a terme seguint la mateixa filosofia àgil.
+Així, s'inicia amb una fase de descoberta seguit de les successives iteracions que permetran anar introduint de forma gradual la nova cultura i les noves pràctiques.
+
+Es desenvoluparan i refinaran les noves pràctiques a partir de projectes reals, que anomenarem exemplars o emblemàtics (descrits en el punt 08 d'aquest document).
+La nova metodologia s'anirà estenent de forma gradual a tots els projectes on aquestes pràctiques siguin d'aplicació.
+
+== Situació actual a l'Ajuntament de Barcelona
+
+El passat setembre de 2016 s'inicià el procés de descoberta a l'Ajuntament de Barcelona amb el suport d'experts extern.
+Es van crear 4 grups de treball en els que hi van participar més de 40 treballadors de diferents àrees municipals.
+Durant 4 mesos, aquests grups van estar treballant amb l'ajuda de 4 experts externs amb l'objectiu de generar una base propiciatòria per a l'impuls del canvi.
+
+Al llarg del 2017, s'han realitzat fins a 3 sessions amb el sector (programari lliure i tecnologies obertes, serveis digitals àgils i compra pública de tecnologia), en el qual s'han implicat més de 200 representants de la ciutat i del sector industrial.
+Internament entre l'abril i el juny d'enguany, dins del Pla de Transformació, es varen organitzar quatre tallers (taller d'Eines, taller de Gestió, taller de Capacitació i taller d'Organització).
+
+En el primer trimestre de 2017 s'ha aplicat la metodologia àgil a un primer projecte real, el quadre de comandament de la gerència municipal. Això ha servit per definir les accions d'introducció de les metodologies àgils a l'Ajuntament, triar els projectes més adients on començar a aplicarles, identificar el suport extern necessari, definir el pla de capacitació interna i l'organització i eines necessàries per les noves pràctiques.
+
+L'Ajuntament, entre 2016 i 2017 va posar en funcionament Decidim.Barcelona i Sentilo, aplicacions ja desenvolupades amb programari propi lliure.
+
+* *Decidim. Barcelona* és el projecte de programari lliure més avançat de l'Ajuntament de Barcelona i ha permès una de les participacions ciutadanes obertes, transparents i traçables més grans del món en la construcció col·lectiva d'un pla estratègic de ciutat.
+La seva missió és donar suport, obrir i amplificar la participació i la democràcia a Barcelona per als propers anys, avançant cap a una major capacitat de col·laboració entre l'Ajuntament i la ciutadania, una major autonomia de les persones en la presa de decisions, amb èmfasi especial en la dimensió col·lectiva i, en definitiva, en la producció i distribució del poder social, principis que continuen avui també vigents en gran part de les comunitats de programari lliure.
+Ja està implementat en 9 ciutats de Catalunya i al País Basc, així com la Comissió Nacional de Debat Públic a França.
+
+* La plataforma de gestió de dades de sensors de Barcelona, *Sentilo*, va ser desenvolupada íntegrament amb programari lliure i oferta al món a través de la Comunitat Sentilo.
+Com Decidim.Barcelona, ja està sent utilitzada a diferents ciutats i administracions públiques i un gran nombre de ciutats i empreses han mostrat el seu interès per provar-la i crear tecnologies compatibles amb la plataforma.
+El principal objectiu de Sentilo és proporcionar a tothom que ho desitgin una plataforma oberta, interoperable i fàcilment ampliable, compartint la inversió pública del desenvolupament sota el model de software lliure.
+És la primera experiència de Barcelona per a crear una comunitat al voltant d'un programari propi, un lloc de trobada on ciutats i empreses puguin col·laborar per a millorar la tecnologia, proporcionar suport i fins i tot desenvolupar negocis.
+Les organitzacions que, a més de Barcelona, estan utilitzant Sentilo en l'actualitat són: Terrassa, Reus, Cambrils, Diputació de Barcelona, Agència Catalana de l'Aigua (ACA), Àrea Metropolitana de Barcelona (AMB) i la municipalitat de Dubai.
+
+En l'àmbit de les dades obertes, cal destacar, el portal *Open Data BCN* o servei de dades obertes de l'Ajuntament de Barcelona.
+Es tracta d'un espai multi idioma i de fàcil accés, on els usuaris poden trobar una relació de conjunt de dades (catàlegs dataset) que l'Ajuntament de Barcelona posa a la seva disposició de forma reutilitzable.
+La informació està classificada en 5 grans temes (administració, població, territori, economia i empresa i ciutat i serveis), amb els seus corresponents subtemes permetent un filtratge.
+Des d'inicis de juliol de 2017, disposa del apartat “reutilitzadors”, un espai de comunitat dirigit a, d'una banda, desenvolupadors per facilitar la tasca d'aquest col·lectiu més tècnic en l'ús de les dades, i per l'altre “visualitzacions i aplicacions”, un apartat que dona visibilitat als projectes que es realitzen amb dades del Portal.
+
+Barcelona ja disposa d'experiència i ha començat el camí indicat per el Pla de Transformació Digital, superant els beneficis esperats. Ha arribat, doncs, el moment de *reforçar-la i formalitzar-la*.
+Aquesta mesura i la seva expressió a través de diverses documents que son el resultat de tot aquest procés de descoberta, estableixen de forma clara els fonaments, estàndards, i principals processos de la digitalització oberta i desenvolupament àgil de serveis:
+
+* L'Estàndard de Serveis Digitals (veure l'annex 12.1).
+
+* El Codi de Pràctiques Tecnològiques (veure l'annex 12.2).
+
+* Les Metodologies Àgils a l'Ajuntament de Barcelona (vegeu annex 12.3).
+
+* Guia de Sobirania Tecnològica (12.4).
+
+* El Pla de migració a Codi Obert (veure l'annex 12.5).
+
+* Guia de Compra Pública de Tecnologia: Manual d'Adquisició de Tecnologia amb clàusules ètiques i obertes (veure l'annex 12.6)
+
+* Guia de Compra Pública Innovadora (veure l'annex 12.7).
+Les guies, que acompanyen la present mesura de govern com annexos, seran publicades com un corpus coherent de treball i s'aniran millorant en al llarg del procés de transformació àgil en aquest mandat.
+
+Aquests documents que acompanyen la present mesura de govern com annexos, seran publicades com un corpus coherent de treball i s'aniran millorant en al llarg del procés de transformació àgil en aquest mandat.
+
+Com s'ha indicat anteriorment, les directius sobre dades es desenvoluparà a través d'una futura mesura específica sobre l'ús de dades a l'Ajuntament, donant-li la importància que mereix.

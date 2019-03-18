@@ -1,0 +1,74 @@
+= Resum Executiu
+ifndef::env-site,env-github[]
+include::_attributes.adoc[]
+endif::[]
+include::{partialsdir}/README.adoc[tag=metadata]
+
+El setembre de 2016 l'Ajuntament de Barcelona endegà un important procés de transformació digital anunciant que els serveis públics han de ser proveïts ja des de l'inici a través de canals digitals, seguint una nova directriu basada en l'orientació al ciutadà, l'ús d'estàndards oberts i programari obert, i d'acord amb una estratègia de dades ètica que posa la privacitat, transparència i els drets digitals al bell mig.
+
+La decisió del govern de la ciutat està basada en el Pla Barcelona Ciutat Digital aprovat en mesura de govern el passat mes d'octubre de 2016 i la nova llei espanyola 39/2015 de Procediment Administratiu Comú de les Administracions Públiques.
+Aquesta estableix que a l'any 2020 a l'Estat Espanyol els canals digitals han de ser prioritaris a l'hora de proveir els serveis públics.
+El Pla Barcelona Ciutat Digital estableix com un dels seus objectius prioritaris la millora radical dels serveis púbics digitals amb la finalitat de proveir als ciutadans serveis 24x7 de més qualitat i més ajustats a les seves necessitats.
+
+L'Institut Municipal d'Informàtica (IMI) és l'instrument per dur a terme aquesta transformació. L'Ajuntament de Barcelona va crear el passat 2016 un Comitè de Transformació Digital i, en paral·lel, l'IMI va crear el grup d'impuls de la Transformació Digital on es troben professionals dels diferents àmbits tecnològics.
+Ambdós instruments han estat creats per impulsar i governar aquest important procés.
+
+El Programa per a la Digitalització Oberta: Programari Lliure i Desenvolupament Àgil de Serveis, creat per el Comissionat i l'IMI, l'octubre del 2016, després del llançament del Pla Digital de Transformació, és l'impulsor de la innovació i l'excel·lència tècnica enfocat al lliurament de resultats.
+Aquest programa promou, a més, una cultura de la innovació, transparència i aprenentatge continu a tot l'Ajuntament, on es destaca:
+
+* La promoció del desenvolupament i lliurament de serveis digitals àgils, oberts i ètics.
+
+* La promoció del desenvolupament d'habilitats i capacitats internes en disseny centrar en l'usuari i metodologies àgils a fi de recuperar el control dels serveis digitals.
+
+* La obertura de la contractació pública fent-la més transparent, senzilla i objectiva, tot reduint la burocràcia.
+La innovació en els processos de contractació permetrà a la vegada diversificar els proveïdors de tecnologia.
+
+* La creació, a través d'una plataforma de mercat digital, d'un grup diversificat de proveïdors locals experts.
+
+* La promoció de l'ús de metodologies àgils per als serveis digitals, internament i en les relacions amb proveïdors.
+
+* La revisió dels procediments de contractació d'actius i serveis tecnològics per reforçar la sobirania tecnològica i de les dades.
+
+* L'establiment de l'ús del programari lliure i de codi obert per als sistemes municipals, excepte circumstàncies excepcionals i justificades.
+
+* La fixació de pràctiques tecnològiques basades en arquitectures i estàndards oberts.
+
+Aquesta mesura de govern proporciona una visió global del programa de transformació i dels canvis incrementals proposats, exposa l'estructura de governança de la transformació, la seva orientació eminentment pràctica basada en l'establiment de mesures clares i lliuraments concrets, i proporciona un full de ruta compartit.
+
+La mesura ens portarà economia de recursos i més eficàcia gràcies a la implementació de processos àgils, a l'hora que acostarem i facilitarem a la població eines per interactuar amb l'administració de manera més eficaç.
+Amb la gestió oberta de les dades i l'ús d'eines de programari lliure garantirem l'accés universal, la millora de la transparència i estarem posant les bases per noves iniciatives basades amb l'aprofitament de les dades i la creació d'una xarxa d'experts en codi obert que aportarà fortalesa i independència a l'administració.
+
+La mesura enfoca el lliurament de serveis digitals àgils, el procés per assolir la sobirania tecnològica i la migració a programari lliure i estàndards de codi obert.
+
+En els annexes d'aquesta mesura de govern trobarem documents que defineixen els primers estàndards i donen directrius pels temes clau del programa.
+
+Aquests documents són:
+
+* L'Estàndard de Serveis Digitals.
+
+* El Codi de Pràctiques Tecnològiques.
+
+* Les Metodologies Àgils a l'Ajuntament de Barcelona.
+
+* Guia de Sobirania Tecnològica.
+
+* Detalls del Pla de Migració a Codi Obert.
+
+* Guia de Compra pública de Tecnologia.
+
+L'ús responsable i ètic de dades, és un element L'ús responsable i ètic de dades, és un element essencial dins Pla de Transformació Digital de l'Ajuntament, en especial la estratègia de Dades Obertes i el Data Commons, els projectes “Data Driven” i la interoperabilitat basada en formats de dades oberts. Les corresponents directrius i la seva implementació es desenvoluparan en una nova mesura de govern sobre la Estratègia de l'Ús Responsable i Ètic de Dades a l'Ajuntament de Barcelona, on es concretaran els detalls tècnics, processos i responsabilitats.
+
+En aquesta mesura de govern també s'explica com s'aplicaran les metodologies de desenvolupament àgil a l'Ajuntament de Barcelona, transformant els equips de producte verticals en grups de treball àgils orientats al servei a través de projectes emblemàtics.
+És per això que l'IMI està posant en marxa una Oficina Tècnica Àgil i un equip de projectes àgils.
+
+Des d'una perspectiva estrictament tecnològica, l'objectiu és la creació d'un ecosistema i una infraestructura pública i oberta d'aplicacions i serveis interoperables i reutilitzables.
+Per això, cal canviar la forma en que l'administració pública opera mitjançant l'ús d'estàndards oberts i programari lliure i de codi obert, implementant interfícies informàtiques (API) obertes, públiques i ben documentades que proporcionin l‘accés a les dades obertes de l'Administració per a permetre que el sector TIC i, fins i tot altres administracions, puguin col·laborar amb l'Ajuntament per a lliurar aplicacions i serveis digitals àgils, oberts i ètics.
+
+Els serveis que primer es beneficiaran d'aquests canvis són: el nou portal de d'atenció ciutadana, els serveis al mòbil per a la ciutadania, la nova agenda d'actes i equipaments de la ciutat, el quadre de comandament sobre la ciutat obert als ciutadans, el portal pels proveïdors de tecnologia, i el nou servei d'identitat digital al mòbil.
+
+Amb la formació dels nous equips àgils, comprendrem les capacitats que necessitem i ens permetrà desenvolupar un pla de contractació i un programa de creació de competències internes per impulsar la transformació. Paral·lelament, l'Ajuntament complementarà les competències internes amb habilitats i serveis proveïts per les empreses més innovadores del sector, a través d'una contractació innovadora i la creació d'una plataforma digital de contractació.
+
+*La transformació digital i la innovació no son el destí o punt d'arribada sinó un viatge, un procés que mai s'acaba* i en el que les iteracions es van succeint una darrera l'altre fins assolir el resultat desitjat.
+Els productes o serveis digitals i les seves interfícies evolucionen, com un organisme viu, d'acord amb les necessitats dels ciutadans i el canvi tecnològic.
+
+El mateix Programa de Transformació Àgil evoluciona contínuament i la nostra ambició és seguir endavant i fer molt més del que aquesta mesura de govern exposa, doncs aquesta estableix només les bases d'un procés de millora continua.
