@@ -106,8 +106,6 @@ La combinación de herramientas libres y datos abiertos nos sitúa en un nuevo h
 
 El gran referente y pionero en la introducción de metodologías ágiles en las administraciones públicas fue el Gobierno británico footnote:[_https://www.gov.uk/service-manual/agile-delivery_], en el año 2010. Un buen ejemplo es el desarrollo del nuevo servicio de gestión de las inspecciones de automotores (parecidas a las ITV).
 
-Barcelona empezó a introducir en el 2013 las metodologías ágiles para el desarrollo y la gestión de las webs municipales y ahora será la primera gran ciudad del sur de Europa en poner en marcha e implementar este tipo de metodologías de manera global en el Ayuntamiento.
-
 En un entorno más próximo, la Junta de Andalucía licitó en el año 2010 el servicio para el desarrollo del web “Consumo responde” mediante metodología ágil scrum.
 También en el 2010 el Gobierno de Canarias licitó el servicio de mantenimiento del sistema informático de expedientes en el ámbito turístico mediante metodologías _scrum_.
 
@@ -116,7 +114,11 @@ En el pliego de prescripciones técnicas se especificaba que la metodología que
 
 En marzo del 2017, la Diputación de Badajoz inició el procedimiento para la contratación de los servicios de desarrollo e implantación de nuevas funcionalidades, y la evolución tecnológica de sus actuales aplicativos de gestión utilizando metodología ágil _scrum_.
 
-Instituciones público-privadas como el Museo Thyssen, el Hospital Clínico San Carlos, en Madrid, y su Smart Health Lab o la Agencia Tributaria empiezan a usar y a aplicar técnicas ágiles como el _lean government_.
+Instituciones público-privadas como el Museo Thyssen, el Hospital Clínico San Carlos, en Madrid, y su _Smart Health Lab_ o la Agencia Tributaria empiezan a usar y a aplicar técnicas ágiles como el _lean government_.
+
+Barcelona empezó a introducir en el 2013 las metodologías ágiles para el desarrollo y la gestión de las webs municipales y ahora será la primera gran ciudad del sur de Europa en poner en marcha e implementar este tipo de metodologías de manera global en el Ayuntamiento.
+
+*Tecnologías abiertas*
 
 Con respecto a experiencias en software libre, en el ámbito local, encontramos el caso de la Universidad de Lérida (UdL), universidad pública pionera en el uso de _software_ libre en Cataluña.
 Durante años ha utilizado sistemas libres con resultados excelentes.
@@ -126,44 +128,38 @@ La Universidad de Murcia, en el 2014, se adscribió al proyecto Open Academic En
 Este proyecto está liderado por la Universidad de Cambridge, y la Universidad de Murcia ha sido la primera universidad española en participar.
 En el 2015, inició la migración de sus equipos a Linux, hecho que les supuso un ahorro de 100.000 euros en licencias y de otros 300.000 euros, al evitar tener que renovar equipos.
 
-En Brasil, el Gobierno inició en paralelo diversos proyectos de inclusión digital en diferentes zonas, basados en el establecimiento de telecentros, con el objetivo de reducir la exclusión digital, aumentar la capacidad profesional, difundir el software libre y aumentar la participación popular en las nuevas tecnologías.
-El software libre ha jugado un papel fundamental en la creación de estos centros y está permitiendo que los recién llegados al mundo digital puedan hacerlo con _software_ legal.
-
-En el año 2004, el equipo de TI de la Gendarmerie Nationale, con el fin de poder ofrecer un servicio responsable y rentable de alcance nacional y para reducir los crecientes costes de infraestructura de TI, decidió revisar su entorno basado en Microsoft existente. Migró a OpenOffice, Firefox, e hizo una actualización de PC hacia Ubuntu, lo que supuso un ahorro de 2 millones de euros anuales solo en derechos de licencia y una reducción drástica de los gastos en hardware.
-
 En el ámbito internacional, el Ministerio de Exteriores alemán, en el 2003, inició la migración de sus 11.000 ordenadores a GNU/Linux y a aplicaciones de _software_ libre.
 Eso ha permitido reducir considerablemente los costes, si los comparamos con otros ministerios.
 Se pretende que la migración se lleve a cabo en las 230 embajadas y consulados repartidos por todo el mundo.
-
-El 16 de julio de 2004, la Administración pública de Malasia inició el Plan maestro para fomentar, adoptar y desarrollar el uso del _software_ libre en el sector público.
-Se puso en marcha el Open Source Competency Center (OSCC), que se estableció como centro de referencia nacional para dirigir y apoyar la aplicación del _software_ libre en la Administración.
-
-*Ver documento de soporte FOSS para otros ejemplos más modernos*
-
-El 23 de junio de 2006, el Consejo de Ministros de Bélgica en Bruselas aprobó la decisión de requerir que todos los intercambios documentales en los servicios del Gobierno federal belga se produzcan en formatos abiertos y estándares.
-Por lo tanto, y de manera expresa, solo OpenDocument (ODF) estuvo aceptado como tal estándar en esta decisión.
-
-En diciembre del 2013, la India invirtió en ordenadores con _software_ libre (Ubuntu) para sus estudiantes.
-Es uno de los programas más importantes del mundo para portátiles patrocinados por el Gobierno, y se lleva a cabo con 1,5 millones de ordenadores portátiles.
 
 En Italia, en el 2014, se escogió el _software_ libre como primera opción para la Administración pública.
 Crearon un documento titulado “Guías para la evaluación comparativa (de _software_)”, con el que se aprende un método para tomar la decisión correcta a la hora de escoger un software.
 El caso italiano es muy importante porque se preocupa no solo por la norma, sino por su implementación.
 La guía elaborada por la Agencia Digital Italiana se redactó con participación tanto de la FSFE como de los representantes de diferentes empresas de _software_ privativo.
 
+Las políticas de tecnologías abiertas para la administración pública europea son apoyadas para la acción de la Comisión Europea, que publica a su propia licencia libre para Administraciones Públicas, la licencia EUPL, y centraliza los esfuerzos en su plataforma “_Join Up_” donde encontramos literalmente centenares de experiencias de migración o desarrollo de _software_ libre a las administraciones europeas.
+
+En Brasil, el Gobierno inició en paralelo diversos proyectos de inclusión digital en diferentes zonas, basados en el establecimiento de telecentros, con el objetivo de reducir la exclusión digital, aumentar la capacidad profesional, difundir el software libre y aumentar la participación popular en las nuevas tecnologías.
+El software libre ha jugado un papel fundamental en la creación de estos centros y está permitiendo que los recién llegados al mundo digital puedan hacerlo con _software_ legal.
+
+El 16 de julio de 2004, la Administración pública de Malasia inició el Plan maestro para fomentar, adoptar y desarrollar el uso del _software_ libre en el sector público.
+Se puso en marcha el Open Source Competency Center (OSCC), que se estableció como centro de referencia nacional para dirigir y apoyar la aplicación del _software_ libre en la Administración.
+
+En diciembre del 2013, la India invirtió en ordenadores con _software_ libre (Ubuntu) para sus estudiantes.
+Es uno de los programas más importantes del mundo para portátiles patrocinados por el Gobierno, y se lleva a cabo con 1,5 millones de ordenadores portátiles.
+
+El 23 de junio de 2006, el Consejo de Ministros de Bélgica en Bruselas aprobó la decisión de requerir que todos los intercambios documentales en los servicios del Gobierno federal belga se produzcan en formatos abiertos y estándares.
+Por lo tanto, y de manera expresa, solo OpenDocument (ODF) estuvo aceptado como tal estándar en esta decisión.
+
 En el 2010 nació el proyecto Open Data BCN (el portal se implantó en el año 2011), cuyo principal objetivo es aprovechar al máximo los recursos públicos disponibles, exponiendo la información generada o custodiada por organismos públicos, permitiendo su acceso y reutilización para el bien común y para el beneficio de personas y entidades interesadas.
 
+En el año 2004, el equipo de TI de la Gendarmerie Nationale, con el fin de poder ofrecer un servicio responsable y rentable de alcance nacional y para reducir los crecientes costes de infraestructura de TI, decidió revisar su entorno basado en Microsoft existente. Migró a OpenOffice, Firefox, e hizo una actualización de PC hacia Ubuntu, lo que supuso un ahorro de 2 millones de euros anuales solo en derechos de licencia y una reducción drástica de los gastos en hardware.
+
 El proyecto, que se enmarca dentro de la estrategia “Barcelona, ciudad digital”, se basa en los principales estándares y recomendaciones internacionales, y adopta las características, de datos abiertos por defecto, calidad y cantidad de información, datos para todo el mundo, datos para la mejora de la gobernanza y promoción de la innovación.
-
-////
-Les polítiques de tecnologies obertes per a l'administració pública europea son recolzades per l'acció de la Comissió Europea, que publica a la seva pròpia llicència lliure per a Administracions Públiques, la llicència EUPL, i centralitza els esforços en la seva plataforma “_Join Up_” on trobem literalment centenars d'experiències de migració o desenvolupament de programari lliure a les administracions europees.
-////
-
-*Conclusiones: Es factible, se ha hecho, hay éxitos, tiene beneficios para las AA. PP.*
 
 Tal como hemos podido ver en los casos que se han descrito, desde hace años las administraciones están viviendo un proceso de transformación hacia metodologías ágiles y _software_ libre.
 En algunas de ellas ya se han podido demostrar de forma clara sus beneficios, tanto con respecto al ahorro económico y la mitigación de la obsolescencia tecnológica con la incorporación de _software_ libre, como con respecto a la mejora de la productividad y la adaptación mediante las metodologías ágiles.
 
 ////
-Falta text i està en un ordre diferent amb titols diferents
+Ordre diferent amb titols diferents
 ////

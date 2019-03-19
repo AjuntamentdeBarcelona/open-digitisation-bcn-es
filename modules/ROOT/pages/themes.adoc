@@ -4,85 +4,91 @@ include::_attributes.adoc[]
 endif::[]
 include::{partialsdir}/README.adoc[tag=metadata]
 
-Per aconseguir els objectius del Programa per a la Digitalització Oberta: Programari Lliure i Desenvolupament Àgil de Serveis caldrà treballar per lliurar serveis digitals àgils i centrats en l'usuari, mitjançant tres eixos principals d'acció:
+Para conseguir los objetivos del Programa de digitalización abierta y desarrollo ágil de servicios habrá que trabajar para entregar servicios digitales ágiles y centrados en el usuario, mediante tres ejes principales de acción:
 
-* Enfortir la *sobirania tecnològica*, a través de l'adopció de programari lliure i la contractació pública oberta.
+* Fortalecer la soberanía tecnológica, a través de la adopción de _software_ libre y la contratación pública abierta.
 
-* Adoptar les *metodologies àgils*, introduint un marc de treball àgil.
+* Adoptar las metodologías ágiles, introduciendo un marco de trabajo ágil.
 
-* Millorar el *govern de dades*, mitjançant una nova estratègia de dades.
+* Mejorar el *gobierno de datos*, mediante una nueva estrategia de datos.
 
-Això es farà mitjançant un conjunt d'actuacions en cadascun dels temes que conformen el programa (Figura 2).
+Todo ello se hará mediante un conjunto de actuaciones en cada una de las que conforman el programa (figura 2).
 
 image:open-digit-p20-areas-{lang}.svg[_FIGURA 2: Àrees d'actuació_]
 
-== Serveis digitals àgils i centrats en l'usuari
+== Servicios digitales ágiles y centrados en el usuario
 
-Cal canviar la forma de dissenyar i construir els nous serveis públics pensantlos ja com a digitals des de bon principi, és el que en el món anglosaxó s'anomena “digital first” (digital des del seu inici).
-Cal dissenyar-los posant el ciutadà al centre i construintlos de forma àgil i gradual per a reduir els temps d'espera per a la posada en marxa.
-Cal que els treballadors municipals responsables del servei, així com els ciutadans, participin activament en el disseny, construcció i manteniment d'aquests serveis.
-Aquest procés de canvi, inspirat en els exemples de les administracions anglosaxones, proporcionarà nous serveis públics més ajustats a les necessitats reals de la ciutadania tot reduint el temps de desenvolupament.
+Hay que cambiar la forma de diseñar y construir los nuevos servicios públicos pensándolos ya como digitales desde el principio, lo que en el mundo anglosajón se denomina _digital first_ (primero en digital).
+Hay que diseñarlos poniendo a la ciudadanía en el centro y construyéndolos de forma ágil y gradual para reducir los tiempos de espera para la puesta en marcha.
+Es necesario que los trabajadores municipales responsables del servicio, así como la ciudadanía, participen activamente en el diseño, la construcción y el mantenimiento de estos servicios.
+Este proceso de cambio, inspirado en los ejemplos de las administraciones anglosajonas, proporcionará nuevos servicios públicos más ajustados a las necesidades reales de la ciudadanía, reduciendo el tiempo de desarrollo.
 
-Els serveis digitals àgils són el punt de partida per assolir els objectius d'aquest programa de digitalització.
-Aquests permeten als ciutadans, empreses i organitzacions relacionar-se amb el govern de la ciutat de forma més fàcil, ràpida i econòmica, doncs seran serveis senzills, ràpids, interactius i disponibles arreu i sempre, serveis que hauran estat dissenyats per satisfer les necessitats de la ciutadania i dels treballadors treballadores municipals.
-Desenvoluparem serveis pensats en digital des del seu inici i fàcilment adaptables a les noves necessitats.
+Los servicios digitales ágiles son el punto de partida para alcanzar los objetivos de este programa de digitalización.
+Estos permiten a los ciudadanos, a empresas y a organizaciones relacionarse con el Gobierno de la ciudad de forma más fácil, rápida y económica, pues serán servicios sencillos, rápidos, interactivos y disponibles en todas partes y siempre, servicios que habrán sido diseñados para satisfacer las necesidades de la ciudadanía y de los trabajadores y trabajadoras municipales.
+Se desarrollarán servicios pensados en digital desde su inicio y fácilmente adaptables a las nuevas necesidades.
 
-== Metodologies àgils
+== Metodologías ágiles
 
-Les metodologies àgils aportaran les eines necessàries per a dissenyar, construir i prestar de manera flexible i eficient els serveis digitals als ciutadans i als treballadors municipals.
+Las metodologías ágiles aportarán las herramientas necesarias para diseñar, construir y prestar de manera flexible y eficiente los servicios digitales a la ciudadanía y a los trabajadores y trabajadoras municipales
 
-La introducció d'un marc de treball àgil, necessitarà:
+Para la introducción de un marco de trabajo ágil se necesitará lo siguiente:
 
-* La creació d'equips multidisciplinaris.
+* La creación de equipos multidisciplinarios.
 
-* La visió global de tot el cicle de vida del servei.
+* La visión global de todo el ciclo de vida del servicio.
 
-* La introducció progressiva de metodologies àgils.
+* La introducción progresiva de metodologías ágiles.
 
-* La implicació de tota l'organització.
+* La implicación de toda la organización.
 
-* La realització de projectes pilot.
+* La realización de proyectos piloto.
 
-* La millora contínua a partir de les aportacions de totes les parts.
+* La mejora continua a partir de las aportaciones de todas las partes.
 
-A partir de les línies d'actuació identificades, detallades en el punt 07, s'aconseguirà:
+A partir de las líneas de actuación identificadas, detalladas en el apartado 7, se conseguirán los siguientes objetivos:
 
-* Posar major focus en l'usuari final empoderant a l'usuari per a la presa de decisions.
+* Centrarse más en el usuario final empoderándolo para la toma de decisiones.
 
-* Escurçar el temps de desenvolupament i millorar a la vegada la qualitat tècnica.
+* Acortar el tiempo de desarrollo y mejorar a la vez la calidad técnica.
 
-* Augmentar la freqüència de millores i implementar la millora continua.
-Lliurar més freqüentment, de manera fiable, per avançar el retorn de la inversió, i sistematitzar la millora continua basada en cicles curts d'inspecció i adaptació.
+* Aumentar la frecuencia de mejoras e implementar la mejora continua.
+Entregar más frecuentemente, de manera fiable, para avanzar el retorno de la inversión, y sistematizar la mejora continua basada en ciclos cortos de inspección y adaptación.
 
-* Posar focus en la col·laboració i transparència.
+* Poner énfasis en la colaboración y la transparencia.
 
-* Incrementar l'orientació al valor mantenint el control dels desenvolupaments, essent més flexibles i lliurant més valor a l'usuari final.
+* Incrementar la orientación al valor manteniendo el control de los desarrollos, siendo más flexibles y entregando más valor al usuario final.
 
-EEls projectes emblemàtics en aquesta tema, amb un pressupost total de 7 milions d'euros i un calendari que va des de mitjans del segon trimestre de 2017, fins al final del segon trimestre del 2019.
+Los proyectos emblemáticos en este tema, con un presupuesto total de 7 millones de euros y un calendario que va desde mediados del segundo trimestre del 2017 hasta el final del segundo trimestre del 2019, son los siguientes:
 
-* Quadre de Comandament per a la gerència municipal.
+* Cuadro de mandos para la gerencia municipal.
 
-* Portal d'Atenció ciutadana.
+* Portal de atención ciudadana.
 
-* Serveis Municipals al mòbil.
+* Servicios municipales en el móvil.
 
 * Decidim.Barcelona.
 
-* Sistema d'informació de drets socials.
+* Sistema de información de derechos sociales.
 
 * ASIA.
 
-* Sistema d'informació del Institut Municipal d'Esports.
+* Sistema de información del Instituto Municipal de Deportes.
 
-* E-administració.
+* E-administración.
 
-== Sobirania tecnològica i Tecnologies obertes
+== Soberanía tecnológica y tecnologías abiertas
 
-Barcelona exigeix la seva sobirania tecnològica, i afronta amb decisió la transició a programari lliure i estàndards oberts per aquesta finalitat.
-S'ha establert un codi de bones pràctiques sobre tecnologies obertes que guiarà la transformació interna, promourà la reutilització i la compartició de codi amb i de tercers, i el desenvolupament i/o utilització de solucions de govern comuns.
-La transició a codi i estàndards oberts té per objectiu reforçar la sobirania tecnològica, i comença amb el Pla de Migració a Codi Obert (annex 12.5).
+Barcelona exige su soberanía tecnológica y afronta con decisión la transición a _software_ libre y estándares abiertos para esta finalidad.
+Se están estudiando las mejores prácticas en este ámbito y se diseñará un plan de migración y se establecerá un código de buenas prácticas sobre tecnologías abiertas que guíe la transformación interna, promueva la reutilización y compartición de código con terceros y de terceros y el desarrollo y utilización de soluciones de gobierno comunes.
+La transición a código abierto y estándares abiertos tiene como objetivo reforzar la soberanía tecnológica.
 
-Els sistemes basats en programari lliure i estàndards oberts ofereixen múltiples beneficis:
+Los sistemas basados en _software_ libre y estándares abiertos ofrecen múltiples beneficios:
+
+////
+Falta info
+////
+
+
 
 * *Transparència*: el codi font pot ser examinat i auditat per qualsevol que tingui els coneixements tècnics suficients, sense necessitat de permís explícit del fabricant o de l'Ajuntament.
 Sense aquesta propietat es fa difícil confiar en la neutralitat i seguretat d'una quantitat creixent de processos governamentals i administratius que es troben implementats en forma de software, com els processos de votació.
@@ -95,8 +101,9 @@ També garanteix que no s'obliga als ciutadans i ciutadanes a utilitzar solucion
 L'usuari, en aquest cas l'Ajuntament, pot decidir amb més llibertat quins sistemes evolucionar, redimensionar o substituir, així com establir polítiques pròpies en quant a seguretat, privacitat, actualitzacions i accés als sistemes.
 En el cas de les organitzacions, la sobirania també fomenta el control sobre els processos propis i la generació i conservació de coneixement.
 
-* *Flexibilitat*: els sistemes poden adequar-se millor a les necessitats dels usuaris i usuàries, i es poden adaptar i estendre a mida que aquestes necessitats evolucionen, sense dependre de cap proveïdor concret.
-No només el desenvolupament és més flexible, també l'avaluació d'alternatives resulta més senzilla i barata, i les condicions d'operació i manteniment es poden modificar més fàcilment.
+* *Flexibilidad.*
+Los estándares abiertos fomentan la compatibilidad e interoperabilidad entre fabricantes, lo que posibilita instalaciones donde se integren equipos de diferente procedencia y donde se pueden obtener los beneficios de cada producto.
+Además, una primera selección de fabricante no impide cambiar en el futuro por otras opciones en caso de mal servicio, mejoras en la competencia u obsolescencia.
 
 * *Sostenibilitat*: la interoperabilitat permet que es puguin substituir aquelles parts dels sistemes que cal renovar sense que les dades no quedin mai inservibles.
 Una major sobirania implica també un menor risc d'obsolescència de qualsevol part dels sistemes, inclòs el hardware.
@@ -105,24 +112,25 @@ La col·laboració (entre persones i entitats) que promouen les llicències lliu
 * *Eficiència*: factors com l'estalvi de costos associats al pagament de llicències, una major competència entre proveïdors, un menor risc d'obsolescència, i la possibilitat de compartir costos amb altres usuaris i entitats, fan que el programari lliure i basat en estàndards oberts sigui la millor opció per garantir l'eficiència que la llei exigeix a l'Administració.
 La ingent base de programari combinable existent permet en molts dominis aconseguir solucions molt adaptades a l'usuari final amb un baix ús de recursos.
 
-* *Fiabilitat i seguretat*: la independència d'estratègies comercials fa que l'usuari pugui exigir serveis de major qualitat i aprofitar-se de totes les correccions i millores aportades per la comunitat d'usuaris i desenvolupadors de cada eina.
+* *Fiabilidad y seguridad.*
+Con diversos programadores a la vez analizando el mismo trabajo, los errores se detectan y se corrigen antes, por lo que el producto resultante es más fiable y eficaz que el comercial.
 
 * *Innovació*: la transparència, i una afortunada combinació de col·laboració i competència, fan del programari lliure un terreny enormement fèrtil per la innovació tecnològica, social i de processos.
 D'aquesta producció de coneixement se'n beneficien directament els productors i els usuaris, i indirectament tota la societat.
 
-Els principals punts ens els que s'hauria de treballar són:
+Los principales puntos en los que se debería trabajar son los siguientes:
 
-* Implementar un pla de migració i desenvolupament progressiu de programari lliure.
+* Implementar un plan de migración y de-sarrollo progresivo de _software_ libre.
 
-* Publicar i compartir programari i continguts de l'Ajuntament de Barcelona sota llicències de programari i continguts lliures.
+* Publicar y compartir _software_ y contenidos del Ayuntamiento de Barcelona bajo licencia de _software_ y contenidos libres.
 
-* Transformar la contractació pública per fomentar la creació, ús i reutilització del programari lliure i de codi obert.
+* Cambiar la contratación pública para fomentar la creación, el uso y la reutilización del _software_ libre y de código abierto.
 
-* Exigir l'ús d'estàndards oberts per a les tecnologies, dades i altres informacions de la ciutat.
+* Exigir el uso de estándares abiertos para las tecnologías, datos y otras informaciones de la ciudad.
 
-* Identificar oportunitats de desenvolupament i/o migració a arquitectures i sistemes oberts a curt i mig termini.
+* Identificar oportunidades de desarrollo y migración a arquitecturas y sistemas abiertos a corto plazo.
 
-La Guia de Sobirania Tecnologia (veure annex 12.4) és el document de referencia en aquest tema.
+La Guía de soberanía tecnología (véase el anexo 12.4) es el documento de referencia en este tema.
 
 
 == Estratègia responsable de Dades
