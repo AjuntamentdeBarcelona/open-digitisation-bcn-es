@@ -133,57 +133,61 @@ Los principales puntos en los que se debería trabajar son los siguientes:
 La Guía de soberanía tecnología (véase el anexo 12.4) es el documento de referencia en este tema.
 
 
-== Estratègia responsable de Dades
+== Estrategia responsable de Dades
 
-Les dades son cada cop més importants per a les ciutats doncs permeten definir millors polítiques públiques per a combatre les desigualtats socials, fomentar el desenvolupament i millorar la qualitat de vida de la ciutadania.
-El creixement exponencial de les dades i la ràpida evolució de la tecnologia promouen l'aparició de nous models de serveis i generen canvis d'hàbits profunds.
-Aquest escenari requereixen adequar de forma flexible i constant les organitzacions TIC i com gestionen les dades que manipulen.
+Los datos son cada vez más importantes para las ciudades, pues permiten definir mejores políticas públicas para combatir las desigualdades sociales, fomentar el desarrollo y mejorar la calidad de vida de la ciudadanía.
+El crecimiento exponencial de los datos y la rápida evolución de la tecnología promueven la aparición de nuevos modelos de servicios y generan cambios de hábitos profundos.
+Este escenario requiere adecuar de forma flexible y constante las organizaciones TIC y cómo gestionan los datos que manipulan.
 
-S'obre una nova etapa on les dades prenen una rellevància considerable en l'entorn municipal i de ciutat i es fa palesa la necessitat de definir i posar en marxa un nou model de govern de les dades municipal que actuï amb sobirania i sigui transversal a tot l'Ajuntament.
+Se abre una nueva etapa donde los datos tienen una considerable relevancia en el entorno municipal y de ciudad y se hace patente la necesidad de definir y lanzar un nuevo modelo de gobierno de los datos municipal que actúe con soberanía y sea transversal a todo el Ayuntamiento.
 
-Això implica canvis organitzatius, de funcions i responsabilitats, i fan necessari la creació a l'Ajuntament de la figura del responsable de les dades o Chief Data Officer (CDO).
+Eso implica cambios organizativos, de funciones y responsabilidades, y hace necesaria la creación en el Ayuntamiento de la figura del responsable de los datos o _chief data officer_ (CDO).
 
-Els principals aspectes que caldrà aprofundir aquest àmbit són:
+Los principales aspectos en los que habrá que profundizar en este ámbito son los siguientes:
 
-* Noves regles pel govern de les dades.
+* Nuevas reglas para el gobierno de los datos.
 
-* Arquitectura oberta de dades.
+* Arquitectura abierta de datos.
 
-* De les dades a la informació, de la informació als indicadors de ciutat.
+* De los datos a la información, de la in-formación a los indicadores de ciudad.
 
-* Ús ètic i responsable de les dades per a la innovació.
+* Uso ético y responsable de los datos para la innovación.
 
-* Privacitat i sobirania.
+* Privacidad y soberanía.
 
-La “Directiva de Dades” per a la Ciutat es publicarà amb la pròxima mesura de govern sobre la gestió de dades a Barcelona, on s'establiran de manera transversal no nomes la política de gestió responsable i ètic de dades, amb la estructura municipal de gestió de dades, una Oficina y responsables de dades, etc., si no també els processos i obligacions per al màxim compliment la normativa de protecció de dades i la millora de la seguretat.
+La 'Guía de directiva de datos' (véase el ane-xo 12.6) es el documento de referencia en este tema.
 
-== Transformació de la Compra Pública de TIC
+== Transformación de la Compra Pública de TIC
 
-Com eix transversal per enfortir l'assoliment dels objectius i els anteriors temes indicats, s'han de canviar els processos i les pràctiques habituals en la compra de tecnologia per adaptar-ho a les metodologies àgils a implantar, a la transició al programari lliure i estàndards oberts i a la nova estratègia de dades.
+Como eje transversal para fortalecer la consecución de los objetivos y los anteriores temas indicados, se deben cambiar los procesos y las prácticas habituales en la compra de tecnología para adaptarlos a las metodologías ágiles que implantar, a la transición al _software_ libre y estándares abiertos y a la nueva estrategia de datos.
 
-La nova contractació de tecnologia serà oberta, transparent i més àgil.
-Ampliarà el ventall de proveïdors que hi poden accedir, facilitant la contractació de solucions en codi obert i d'estàndards oberts.
-A més, considerarà els aspectes de propietat de les dades, i privacitat, tot observant el compliment de la regulació legal de protecció de dades i incloent l'avaluació del risc ètic en l'ús de les dades.
-Com a resultat tindrem nous processos de contractació, guies d'adquisició de tecnologia i nous serveis digitals tant per a les empreses potencials proveïdors com per la ciutadania i pels equips municipals de contractació.
+La nueva contratación de tecnología será abierta, transparente y más ágil.
+Ampliará el abanico de proveedores que pueden acceder a este, y facilitará la contratación de soluciones en código abierto y de estándares abiertos.
+Además, considerará los aspectos de propiedad de los datos y la privacidad, observando el cumplimiento de la regulación legal de protección de datos e incluyendo la evaluación del riesgo ético en el uso de los datos.
+Como resultado tendremos nuevos procesos de contratación, guías de adquisición de tecnología.
 
-Es generaran nous enfocs, noves normes i noves eines per tal de disposar de:
+Se generarán nuevos enfoques, nuevas normas y nuevas herramientas con el fin de conseguir las siguientes ventajas:
 
-* Processos de compra més fàcils.
+* Procesos de compra más fáciles.
 
-* Contractació oberta amb processos més transparents.
+* Contratación abierta con procesos más transparentes.
 
-* Guies per la contractació de solucions i serveis basats en tecnologies obertes i el desenvolupament de metodologies àgils.
+* Guías para la contratación de soluciones y servicios basados en tecnologías abiertas y el desarrollo de metodologías ágiles.
 
+////
 * Plataforma de mercat digital per facilitar l'accés a proveïdors petits i locals.
+////
 
-La Guia de Compra Pública de Tecnologia (veure annex 12.6) i en la Guia de Compra Pública Innovadora (veure annex 12.7) són els documents de referencia en aquest tema.
+La Guía de compra pública de tecnología (véase el anexo 12.7) y la Guía de compra pública innovadora (véase el anexo 12.8) son los documentos de referencia en este tema.
 
-== Capacitat, cultura i gestió del canvi organitzatiu
+== Capacidad, cultura y gestión del cambio organizativo
 
-La transformació ajuda als equips existents a capacitar-se i desenvolupar-se, convertint-los en equips interns ben preparats amb habilitats i capacitats per prendre la plena propietat dels serveis digitals de la ciutat, les dades, les decisions arquitectòniques i de compra.
+La transformación ayuda a los equipos existentes a capacitarse y desarrollarse, convirtiéndolos en equipos internos bien preparados con habilidades y capacidades para tomar la plena propiedad de los servicios digitales de la ciudad, los datos, las decisiones arquitectónicas y de compra.
 
-Aquestes capacitats i habilitats estaran recolzades per un conjunt de comportaments i pràctiques (cultura organitzativa) i una estructura organitzativa que orientant-los a serveis, faciliti la col·laboració dels equips amb el suport puntual d'equips externs que puguin complementar i enriquir el coneixement dels recursos interns i obrir noves oportunitats professionals.
+Estas capacidades y habilidades estarán apoyadas por un conjunto de comportamientos y prácticas (cultura organizativa) y una estructura organizativa que, orientándolos a servicios, facilite la colaboración de los equipos con el apoyo puntual de equipos externos que puedan complementar y enriquecer el conocimiento de los recursos internos y abrir nuevas oportunidades profesionales.
 
+////
 A continuació (Figura 3), es mostren els resultats més importants, que ja s'han assolit, en les àrees d'actuació descrites.
+////
 
 image::open-digit-p25-guides-{lang}.svg[FIGURA 3: Guies]

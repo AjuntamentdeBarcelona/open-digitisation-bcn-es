@@ -1,49 +1,46 @@
-= Línies d'actuació
+= Líneas de actuación
 ifndef::env-site,env-github[]
 include::_attributes.adoc[]
 endif::[]
 include::{partialsdir}/README.adoc[tag=metadata]
 
-Sobre cadascun dels temes que s'han indicat en l'apartat anterior, s'han establert unes línies d'actuació, les quals ampliem a continuació, juntament amb les seves accions associades.
+Sobre cada uno de los temas que se han indicado en el apartado anterior se han establecido unas líneas de actuación, que ampliamos a continuación, junto con sus acciones asociadas.
 
-== Serveis digitals àgils i centrats en l'usuari
+== Servicios digitales ágiles y centrados en el usuario
 
-Pel desenvolupament dels serveis digitals i centrat en l'usuari és imprescindible la introducció de les metodologies de desenvolupament àgil.
+Para el desarrollo de los servicios digitales centrados en los usuarios es imprescindible la introducción de las metodologías de desarrollo ágil.
 
-Durant el primer semestre de 2017 s'han dut a terme les següents accions:
+Durante el primer semestre del 2017 se han organizado cuatro talleres (herramientas, gestión ágil, capacitación y cultura y organización) con personal interno del IMI, desarrolladores, responsables de servicio, responsables sectoriales y directivos.
 
-Organització de 4 tallers (eines, gestió àgil, capacitació i cultura i organització) amb personal intern del IMI, desenvolupadors, responsables de servei, responsables sectorials i directius.
-Van participar més de 40 treballadors de les diferents àrees municipals.
+Con la implantación de estas metodologías se alcanzarán las líneas de actuación establecidas:
 
-Amb la implantació d'aquestes metodologies s'assoliran les línies d'actuació establertes:
+* Barcelona transformará 20 nuevos servicios digitales (descritos en el apartado 0.8), según el Estándar de servicios digitales y el Codigo de prácticas tecnológicas.
 
-* Barcelona transformarà 20 nous serveis digitals (descrits en l'apartat 0.8), segons l'Estàndard de serveis digitals i el Codi de pràctiques tecnològiques.
+* Centrarse más en el usuario final, dando más protagonismo a la *toma de decisiones*.
 
-* Posar major focus en l'usuari final, donant més protagonisme a la *presa de decisions*.
+* *Acortar el tiempo de desarrollo* mejorar a la vez la cualidad técnica.
 
-* *Escurçar el temps de desenvolupament* i millorar a la vegada la qualitat tècnica.
+* *Ofrecer más valor público* todo manteniendo el control de los desarrollos.
 
-* *Oferir més valor públic* tot mantenint el control dels desenvolupaments.
+A partir de las líneas de actuación identificadas, se alcanzarán los siguientes objetivos:
 
-A partir de les línies d'actuació identificades, s'aconseguirà:
+* Transformar la cultura organizativa, promoviendo la colaboración y la transparencia, siendo más flexibles y entregando más valor público.
 
-* Transformar la cultura organitzativa, promovent la col·laboració i la transparència, essent més flexibles i lliurant més valor públic.
+* Implementar la mejora continua introduciendo en la organización las prácticas que deben hacer que los procesos de mejora sean sistémicos.
 
-* Implementar la millora continua introduint a l'organització les pràctiques que han de fer que els processos de millora siguin sistèmics.
+== Soberanía tecnológica y migración a _software_ libre
 
-== Sobirania tecnològica i migració a programari lliure
+La consecución de la soberanía tecnológica se hará a través de la migración a software libre, el despliegue de estándares abiertos, los cambios en la contratación pública para fomentar el software de código abierto y la identificación de oportunidades de migración a arquitecturas abiertas a corto plazo.
 
-L'assoliment de la sobirania tecnològica es farà a través de la migració a programari lliure, el desplegament d'estàndards oberts, els canvis en la contractació pública per fomentar el programari de codi obert i la identificació d'oportunitats de migració a arquitectures obertes a curt termini.
+Las líneas de actuación hacia este tema son las siguientes:
 
-Les línies d'actuació vers aquest tema són:
+* *Lograr que el 70 % de la inversión* en nuevos desarrollos de software se haga con código abierto.
 
-* *Assolir que el 70% de la inversió* en nous desenvolupaments de programari es farà amb codi obert.
+* Poner a disposición de otros municipios y administraciones *diez soluciones* desarrolladas por el Ayuntamiento de Barcelona.
 
-* Posar a disposició d'altres municipis i administracions *10 solucions* desenvolupades per l'Ajuntament de Barcelona.
+* Incorporar la estación corporativa abierta basada en sistemas y programas abiertos al parque municipal.
 
-* Incorporar *l'estació corporativa* oberta basada en sistemes i programes oberts al parc municipal.
-
-Durant el primer semestre de 2017 s'han dut a terme les següents accions:
+Durante el primer semestre del 2017 se ha estado trabajando en las siguientes acciones:
 
 * Identificar oportunitats de desenvolupament i/o migració a arquitectures i sistemes oberts a curt termini.
 
