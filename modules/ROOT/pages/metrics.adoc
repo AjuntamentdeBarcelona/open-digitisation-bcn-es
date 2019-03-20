@@ -1,26 +1,26 @@
-= Mètriques d'èxit i resultats
+= Métricas de éxito y resultados
 ifndef::env-site,env-github[]
 include::_attributes.adoc[]
 endif::[]
 include::{partialsdir}/README.adoc[tag=metadata]
 
-El propòsit de les mètriques d'èxit és proporcionar eines per comprendre si les accions realitzades per l'Ajuntament l'han acostat als seus objectius i quins canvis s'han de realitzar en el que s'està fent per l'assoliment dels mateixos.
-Una mètrica ben dissenyada, contesta les preguntes de rendiment específiques i permet prendre decisions de millora de serveis basades en dades.
+El propósito de las métricas de éxito es proporcionar herramientas para comprender si las acciones realizadas por el Ayuntamiento lo han acercado a sus objetivos y qué cambios deben realizarse para su consecución.
+Una métrica bien diseñada responde las preguntas de rendimiento específicas y permite tomar decisiones de mejora de servicios basadas en datos.
 
-Es monitoritzarà el progrés del programa de digitalització a través dels projectes emblemàtics.
-D'aquests es mesurarà el seu grau d'execució (% d'execució) i el pressupost executat.
-El progrés de les diferents línies d'actuació del programa i les iniciatives que comprenen es mesurarà mitjançant mètriques i indicadors d'avanç específics per a cada iniciativa: proporció de contractes desenvolupats en metodologies àgils, pressupost destinat a projectes àgils, pressupost destinat a projecte de programari lliure i de codi obert, temps de desenvolupament i posta en marxa de nous serveis, quantitat de defectes detectats en els desenvolupaments, nombre d'iteracions, etc.
+Se monitorizará el progreso del programa de digitalización a través de los proyectos emblemáticos.
+De estos se medirá su grado de ejecución (% de ejecución) y el presupuesto ejecutado.
+El progreso de las diferentes líneas de actuación del programa y las iniciativas que comprende se medirán mediante métricas e indicadores de avance específicos para cada una: proporción de contratos desarrollados con metodologías ágiles, presupuesto destinado a proyectos ágiles, presupuesto destinado a proyectos de software libre y de código abierto, tiempo de desarrollo y puesta en marcha de nuevos servicios, cantidad de defectos detectados en los desarrollos, número de iteraciones, etcétera.
 
-Es mesurarà el nivell de coneixement del procés de transformació que es té des de les diferents àrees municipals.
-A la vegada, s'avaluarà el grau de satisfacció de cada àrea amb els nous serveis digitals desenvolupats, mitjançant una enquesta periòdica.
-En la mateixa enquesta es mesurarà l'ajust dels serveis a les necessitats del “negoci”, el grau d'actualització dels mateixos, la seva usabilitat, accessibilitat, grau d'innovació i temps de resposta.
+Se medirá el nivel de conocimiento del proceso de transformación que hay en las diferentes áreas municipales.
+A la vez, se evaluará el grado de satisfacción de cada área con los nuevos servicios digitales desarrollados mediante una encuesta periódica.
+En dicha encuesta se medirá el ajuste de los servicios a las necesidades del “negocio”, su grado de actualización, usabilidad, accesibilidad, nivel de innovación y tiempo de respuesta.
 
-Una altra mètrica important que s'utilitzarà per monitoritzar l'èxit del programa, és la disponibilitat dels serveis públics digitals.
-En el següent gràfic (Figura 6), es mostren els resultats respecte disponibilitat i prestació de serveis del primer semestre del 2017.
+Otra métrica importante para monitorizar el éxito del programa es la disponibilidad de los servicios públicos digitales.
+En el siguiente gráfico (figura 6) se muestran los resultados con respecto a disponibilidad y prestación de servicios del primer semestre del 2017.
 
 image::open-digit-p34-pki-{lang}.svg[_FIGURA 6: Indicadors de disponibilitat de serveis_]
 
-Finalment, els recursos humans és un dels altres principals indicadors que s'utilitzaran per a mesurar el progrés d'aquest programa.
-El procés que s'està portant a terme en aquest àmbit, així com la planificació, queda reflectida en la següent imatge (Figura 7).
+Finalmente, los recursos humanos son otros de los principales indicadores que se utilizarán para medir el progreso de este programa.
+El proceso que se está llevando a cabo en este ámbito, así como su planificación, quedan reflejados en la siguiente imagen (figura 7).
 
 image::open-digit-p35-resources-{lang}.svg[_FIGURA 7: Indicadors del Pla de recursos humans_]
