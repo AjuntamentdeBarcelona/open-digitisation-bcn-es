@@ -1,12 +1,12 @@
-= Pressupost
+= Presupuesto
 ifndef::env-site,env-github[]
 include::_attributes.adoc[]
 endif::[]
 include::{partialsdir}/README.adoc[tag=metadata]
 
-El Pla de Transformació Digital de l'Ajuntament de Barcelona està actualment dotat d'un pressupost de 72.000.000 €.
+El Plan de transformación digital del Ayuntamiento de Barcelona está actualmente dotado de un presupuesto de 72.000.000 euros.
 
-31.750.000 € d'aquest pla es destinen als projectes emblemàtics que es desenvoluparan dins del Programa per a la Digitalització Oberta: Programari Lliure i Desenvolupament Àgil de Serveis.
-Aquests projectes es desenvoluparan amb metodologies àgils, incorporaran programari lliure i de codi obert o incorporaran noves pràctiques en l'ús de les dades.
+31.750.000 euros de este plan se destinan a los proyectos emblemáticos que se desarrollarán con el Programa para la digitalización abierta: software libre y desarrollo ágil de servicios.
+Estos proyectos se desarrollarán con metodologías ágiles, incorporarán _software_ libre y de código abierto o incluirán nuevas prácticas en el uso de los datos.
 
-A més, es destinaran al llarg del mandat 1.500.000 € addicionals al Programa per a la Digitalització Oberta: Programari Lliure i Desenvolupament Àgil de Serveis per a la governança del procés de transformació incloent la introducció de les metodologies àgils i l'adopció de solucions basades en programari lliure i de codi obert.
+Además, se destinarán a lo largo del mandato 1.500.000 euros adiconales al Programa para la digitalización abierta: _software_ libre y desarrollo ágil de servicios para la gobernanza del proceso de transformación, con la introducción de las metodologías ágiles y la adopción de soluciones basadas en _software_ libre y de código abierto.

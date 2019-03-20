@@ -1,19 +1,19 @@
-= Annexos
+= Anexos
 ifndef::env-site,env-github[]
 include::_attributes.adoc[]
 endif::[]
 include::{partialsdir}/README.adoc[tag=metadata]
 
-== L'estàndard de serveis digitals
+== El estándar de servicios digitales
 
-== El codi de pràctiques tecnològiques
+== El código de prácticas tecnológicas
 
-== Les metodologies àgils a l'ajuntament de barcelona
+== Las metodologías ágiles al ayuntamiento de barcelona
 
-== Guia se sobirania tecnològica
+== Guía de soberanía tecnológica
 
-== Detalls del pla de migració a codi obert
+== Detalles del plan de migración a código abierto
 
-== Guia de compra pública de tecnologia
+== Guía de compra pública de tecnología
 
-== Guia de compra pública innovadora
+== Guía de compra pública innovadora
