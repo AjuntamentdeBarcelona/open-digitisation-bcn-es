@@ -80,105 +80,110 @@ Els projectes emblemàtics en aquest tema, amb un pressupost total de 21,5 milio
 
 * Nous serveis desenvolupats en codi obert.
 
-== Estratègia responsable i ètica de dades
+== Estrategia responsable y ética de datos
 
-Les dades prenen una rellevància considerable en l'entorn municipal i de ciutat i es fa palesa la necessitat de definir i posar en marxa un nou model transversal de govern de les dades que reforci la sobirania. Donant la seva importància, l'Ajuntament dedicarà una mesura de govern destinada a expressar la política de gestió de dades i la seva implementació a través de totes les unitats de l'Ajuntament.
+Los datos toman una relevancia considerable en el entorno municipal y de ciudad y se hace patente la necesidad de definir y poner en marcha un nuevo modelo transversal de gobierno de los datos que refuerce la soberanía
 
+////
 Indiquem aquí les línies d'acció i projectes que cauran sota l'àmbit d'aquesta pròxima mesura, element essencial del Pla de Transformació Digital.
+////
 
-Les línies d'actuació vers aquest tema són:
+Las líneas de actuación hacia este tema son las siguientes:
 
 * *Disseny i execució* de les accions d'adaptació al nou RGPD pel tractament de les dades de caràcter personal a l'ajuntament de Barcelona.
 
-* *Definició i implantació* dels nous processos que permetin la incorporació de la privacitat and security per defecte i des del disseny en els nous aplicatius informàtics.
+* *Definición e implantación* de los nuevos procesos que permitan la incorporación de la privacidad y la seguridad por defecto y desde el diseño en los nuevos aplicativos informáticos.
 
-* *Establiment del control* proactiu que demana la nova normativa.
+* *Establecimiento del control* proactivo que pide la nueva normativa.
 
-* Definició de l'oficina municipal d'anàlisi de dades i de la figura de *Chief Data Office*.
+* Definición de la oficina municipal de análisis de datos y de la figura del *_Chief Data Office_*.
 
 * Creació de la figura *Chief Data Analytics Office* que aporti noves capacitats relacionades amb la millora de dades i l'anàlisi de les mateixes en la protecció de la privacitat interna.
 
+////
 * Crear un programa “*Data Challenges*” per involucrar a les pimes i empreses en la creació d'aplicacions basades en dades per resoldre els reptes de la ciutat.
+////
 
-Durant el primer semestre de 2017 s'ha estat treballant en les següents accions:
+Durante el primer semestre del 2017 se ha es-tado trabajando en las siguientes acciones:
 
-* Establiment de les noves regles pel govern de dades.
+* Establecer las nuevas reglas para el gobierno de datos.
 
-* Definició d'una arquitectura oberta de dades.
+* Definir una arquitectura abierta de datos.
 
-* Plataformes per a l'anàlisi massiu de dades per a polítiques i serveis públics.
+* Crear plataformas para el análisis masivo de datos para políticas y servicios públicos.
 
-* Guia per a l'ús ètic i responsable de les dades, garantint privacitat i sobirania.
+* Elaborar una guía para el uso ético y responsable de los datos, garantizando privacidad y soberanía.
 
-A partir de les línies d'actuació identificades, s'aconseguirà:
+A partir de las líneas de actuación identificadas, se alcanzarán los siguientes objetivos:
 
-* Millorar l'eficàcia i eficiència.
+* Mejorar la eficacia y la eficiencia.
 
 * Millorar la presa de decisions.
 
-* Democratitzar l'accés a les dades.
+* Democratizar el acceso a los datos.
 
-* Crear nous i millors serveis públics.
+* Crear nuevos y mejores servicios públicos.
 
-* Assolit qualitat democràtica, respectant els drets digitals dels ciutadans, la protecció de dades i l'accés a la informació.
+* Conseguir calidad democrática.
 
-* Generar Transparència i rendició de comptes.
+* Generar transparencia y rendición de cuentas.
 
-* Recuperar la confiança del ciutadà.
+* Recuperar la confianza de la ciudadanía.
 
-Els projectes emblemàtics en aquesta tema, amb un pressupost total de 2,3 milions d'euros i un calendari que va des de el primer trimestre de 2017, fins a mitjans del primer trimestre de 2019.
+Los proyectos emblemáticos en este tema, con un presupuesto total de 2,3 millones de euros y un calendario que va desde el primer trimestre del 2017 hasta mediados del primer trimestre del 2019 son los siguientes:
 
-* Serveis CityOS (contaminació, mobilitat, turisme).
-* Quadre de comandament d'ecologia.
+* Servicios City OS (contaminación, movilidad, turismo).
 
-* Observatori de l'Habitatge de Barcelona (OHB).
+* Cuadro de mandos de ecología.
+
+* Observatorio de la Vivienda de Barcelo-na (OVB).
 
 * DCODE: Projecte de tota la UE per desenvolupar una arquitectura basada en blockchain (cadena de blocs) per a la sobirania de dades.
 
-== Nou model de contractació
+== Nuevo modelo de contratación
 
-Amb l'assoliment del objectiu principal del nou model de contractació, indicat en el punt 06.5, es podrà garantir la sobirania tecnològica i de les dades, es fomentarà la innovació tecnològica i es farà palanca en la transformació socioeconòmica.
+Con la consecución del objetivo principal del nuevo modelo de contratación, indicado en el apartado 6.5, se podrá garantizar la soberanía tecnológica y de los datos, se fomentará la innovación tecnológica y se hará palanca en la transformación socioeconómica.
 
-Les línies d'actuació vers aquest tema:
+Las líneas de actuación hacia este tema son las siguientes:
 
-* *Nou marc de contractació:* Conceptualització de la nova orientació en la contractació.
+* *Doc. _Framework_:* conceptualización de la nueva orientación en la contratación.
 
-* *Implementació de la Guia Compra TIC:* Guia que facilita una visió global de l'estratègia municipal i facilita l'aplicació de les diferents mesures.
+* *•Guía de compra de TIC:* Guía que facilita una visión global de la estrategia municipal y la aplicación de las diferentes medidas.
 
-* *Implementació de la Guia Compra innovació:* Guia que orienta al seu lector a considerar la innovació com a element fonamental indissociable i potenciador de les compres sostenibles.
+* *Guía de compra de innovación:* guía que orienta al lector a considerar la innovación como elemento fundamental indisociable y potenciador de las compras sostenibles.
 
-* *Redacció de documents per a “Plecs Tipus”*: Estandardització i agilitat en la contractació.
+* *Pliegos tipo:* estandarización y agilidad en la contratación.
 
-* *Creació del “Digital Marketplace”*: Espai de diàleg continu i interrelació entre proveïdors, ciutadans i l'Ajuntament.
+* *_Marketplace:_* espacio de diálogo continuo e interrelación entre proveedores, la ciudadanía y el Ayuntamiento.
 
-* *Comunicació i Difusió:* Accions de difusió sobre el procés de transformació i l'estratègia municipal pel que fa a la contractació.
+* *Comunicación y difusión:* acciones de difusión sobre el proceso de transformación y la estrategia municipal con respecto a la contratación.
 
-Durant el primer semestre de 2017 s'han dut a terme les següents accions:
+Durante el primer semestre del 2017 se han organizado:
 
-* Redacció de la guia de compra de tecnologia i de la guia de compra d'innovació.
+* La guía de compra de tecnología y la guía de compra de innovación.
 
-* S'ha iniciat ja la preparació dels plecs tipus.
+* Se ha iniciado ya la preparación de los pliegos tipo.
 
 * S'han organitzat sessions de treball amb el sector TIC per l'enriquiment de les mesures vinculades a la compra de tecnologia.
 
-* Prospeccions per a construir una plataforma de mercat digital (Marketplace).
+* Se han hecho prospecciones para construir una plataforma de mercado digital (_marketplace_).
 
-Els projecte emblemàtic en aquesta tema, amb un pressupost total de 22 mil euros i un calendari que va des de l'inici del segon trimestre de 2017, fins a finals del primer trimestre de 2018.
+El proyecto emblemático en este tema, con un presupuesto total de 22 millones de euros y un calendario que va desde el inicio del segundo trimestre del 2017 hasta finales del primer trimestre del 2018 es el siguiente:
 
-* Digital Marketplace.
+* Conceptualización de un _marketplace_.
 
-== Cultura i organització del canvi
+== Cultura y organización del cambio
 
-Per a la transformació dels equips existents s'està realitzant entre d'altres actuacions, una pla de capacitació del personal intern, amb tallers orientats a la organització, la capacitació i la cultura, la gestió àgil i l'aprenentatge d'eines.
+Para la transformación de los equipos existentes se está realizando entre otras actuaciones, una plan de capacitación del personal interno, con talleres orientados a la organización, la capacitación y la cultura, la gestión ágil y el aprendizaje de herramientas.
 
-De forma paral·lela, dins el primer semestre del 2017 també s'ha iniciat un procés de cobertura de 64 noves places de tècnics informàtics (superiors i mitjans), a través de 2 borses de treball.
-Es preveu que aquest procés durarà fins a finals del 2017 i la incorporació de les persones es realitzarà durant el primer semestre del 2018.
+De forma paralela, en el primer semestre de 2017 también se ha iniciado un proceso de cobertura de 64 nuevas plazas de técnicos informáticos (superiores y medios), a través de 2 bolsas de trabajo.
+Se prevé que este proceso durará hasta finales de 2017 y la incorporación de las personas se realizará durante el primer semestre del 2018.
 
-També està prevista una reestructuració orgànica que preveu la creació de 16 nous departaments, d'acord amb criteris de diferenciació per àmbits sectorials per especialització tècnica, que reforçarà el comandament, l'assumpció de responsabilitats pels comandaments intermitjos i la coordinació dels diferents grups de treball.
+También está prevista una reestructuración orgánica que prevé la creación de 16 nuevos departamentos, de acuerdo con criterios de diferenciación por ámbitos sectoriales para especialización técnica, que reforzará el mando, la asunción de responsabilidades por los mandos intermedios y la coordinación de los diferentes grupos de trabajo.
 
-Per finalitzar, indicarem que els projectes emblemàtics que s'han apuntat en cadascuna de les línies d'actuació i que es detallen en l'apartat 08, formen part del Pla de Mandat que es conforma de 3 plans:
+Para finalizar, indicaremos que los proyectos emblemáticos que se han apuntado en cada una de las líneas de actuación y que se detallan en el apartado 08, forman parte del Plan de Mandato que se conforma de 3 planes:
 
-Sectorial, de Llei i Tecnològic, tal i com es reflexa a continuació (Figura 4).
-També hi podem observar l'estat d'execució dels mateixos, així com el grau d'execució del pressupost de 2017.
+Sectorial, de Ley y Tecnológico, tal y como se refleja a continuación (Figura 4).
+También podemos observar el estado de ejecución de los mismos, así como el grado de ejecución del presupuesto de 2017.
 
-image::open-digit-p30-roadmap-ca.svg[_FIGURA 4: Composició i execució del Pla de Mandat_]
+image::open-digit-p30-roadmap-{lang}.svg[ align="center" _FIGURA 4: Composición y ejecución del Plan de Mandato_]
