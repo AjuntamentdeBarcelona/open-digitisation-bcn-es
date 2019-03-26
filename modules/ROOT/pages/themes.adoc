@@ -85,11 +85,6 @@ La transición a código abierto y estándares abiertos tiene como objetivo refo
 Los sistemas basados en _software_ libre y estándares abiertos ofrecen múltiples beneficios:
 
 ////
-Falta info
-////
-
-
-
 * *Transparència*: el codi font pot ser examinat i auditat per qualsevol que tingui els coneixements tècnics suficients, sense necessitat de permís explícit del fabricant o de l'Ajuntament.
 Sense aquesta propietat es fa difícil confiar en la neutralitat i seguretat d'una quantitat creixent de processos governamentals i administratius que es troben implementats en forma de software, com els processos de votació.
 
@@ -100,23 +95,28 @@ També garanteix que no s'obliga als ciutadans i ciutadanes a utilitzar solucion
 * *Sobirania*: la transparència i la interoperabilitat redueixen molt la dependència respecte d'estratègies comercials dels fabricants.
 L'usuari, en aquest cas l'Ajuntament, pot decidir amb més llibertat quins sistemes evolucionar, redimensionar o substituir, així com establir polítiques pròpies en quant a seguretat, privacitat, actualitzacions i accés als sistemes.
 En el cas de les organitzacions, la sobirania també fomenta el control sobre els processos propis i la generació i conservació de coneixement.
+////
 
 * *Flexibilidad.*
 Los estándares abiertos fomentan la compatibilidad e interoperabilidad entre fabricantes, lo que posibilita instalaciones donde se integren equipos de diferente procedencia y donde se pueden obtener los beneficios de cada producto.
 Además, una primera selección de fabricante no impide cambiar en el futuro por otras opciones en caso de mal servicio, mejoras en la competencia u obsolescencia.
 
+////
 * *Sostenibilitat*: la interoperabilitat permet que es puguin substituir aquelles parts dels sistemes que cal renovar sense que les dades no quedin mai inservibles.
 Una major sobirania implica també un menor risc d'obsolescència de qualsevol part dels sistemes, inclòs el hardware.
 La col·laboració (entre persones i entitats) que promouen les llicències lliures pot ser de gran ajuda a l'hora de fer més estable i durador un sistema.
 
 * *Eficiència*: factors com l'estalvi de costos associats al pagament de llicències, una major competència entre proveïdors, un menor risc d'obsolescència, i la possibilitat de compartir costos amb altres usuaris i entitats, fan que el programari lliure i basat en estàndards oberts sigui la millor opció per garantir l'eficiència que la llei exigeix a l'Administració.
 La ingent base de programari combinable existent permet en molts dominis aconseguir solucions molt adaptades a l'usuari final amb un baix ús de recursos.
+////
 
 * *Fiabilidad y seguridad.*
 Con diversos programadores a la vez analizando el mismo trabajo, los errores se detectan y se corrigen antes, por lo que el producto resultante es más fiable y eficaz que el comercial.
 
+////
 * *Innovació*: la transparència, i una afortunada combinació de col·laboració i competència, fan del programari lliure un terreny enormement fèrtil per la innovació tecnològica, social i de processos.
 D'aquesta producció de coneixement se'n beneficien directament els productors i els usuaris, i indirectament tota la societat.
+////
 
 Los principales puntos en los que se debería trabajar son los siguientes:
 
@@ -133,7 +133,7 @@ Los principales puntos en los que se debería trabajar son los siguientes:
 La Guía de soberanía tecnología (véase el anexo 12.4) es el documento de referencia en este tema.
 
 
-== Estrategia responsable de Dades
+== Estrategia responsable de Datos
 
 Los datos son cada vez más importantes para las ciudades, pues permiten definir mejores políticas públicas para combatir las desigualdades sociales, fomentar el desarrollo y mejorar la calidad de vida de la ciudadanía.
 El crecimiento exponencial de los datos y la rápida evolución de la tecnología promueven la aparición de nuevos modelos de servicios y generan cambios de hábitos profundos.
