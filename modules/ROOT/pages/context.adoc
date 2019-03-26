@@ -82,7 +82,7 @@ La privacidad y la seguridad de los datos quedan aseguradas.
 Con el _software_ privativo, estos beneficios no existen o exigen costes económicos y sociales superiores
 
 ////
-*Tendencias en estándares abiertos (e.g European in Teroperability Framework, o Rd 4/2010)*
+*Tendencias en estándares abiertos (e.g European Interoperability Framework, o Rd 4/2010)*
 ////
 
 Desde el año 2010, existe el Real decreto 4/2010 (apartado 04.2), que obliga a las administraciones públicas a utilizar formatos abiertos a la hora de compartir información con la ciudadanía.
