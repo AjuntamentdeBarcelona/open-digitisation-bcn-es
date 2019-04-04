@@ -104,7 +104,7 @@ Las líneas de actuación hacia este tema son las siguientes:
 * Crear un programa “*Data Challenges*” per involucrar a les pimes i empreses en la creació d'aplicacions basades en dades per resoldre els reptes de la ciutat.
 ////
 
-Durante el primer semestre del 2017 se ha es-tado trabajando en las siguientes acciones:
+Durante el primer semestre del 2017 se ha estado trabajando en las siguientes acciones:
 
 * Establecer las nuevas reglas para el gobierno de datos.
 
@@ -136,7 +136,7 @@ Los proyectos emblemáticos en este tema, con un presupuesto total de 2,3 millon
 
 * Cuadro de mandos de ecología.
 
-* Observatorio de la Vivienda de Barcelo-na (OVB).
+* Observatorio de la Vivienda de Barcelona (OVB).
 
 * DCODE: Projecte de tota la UE per desenvolupar una arquitectura basada en blockchain (cadena de blocs) per a la sobirania de dades.
 

@@ -60,7 +60,7 @@ Que la Administración local haga uso de él directamente es un paso lógico.
 La libertad de escoger herramientas también significa libertad de proveedor para su mantenimiento y desarrollo.
 Trabajar con formatos y estándares abiertos permite no depender de una gran empresa y tener acceso siempre a la información generada.
 
-Participar directamente en la comuni-dad da acceso a conocimientos consolidados de otras entidades, y se puede contribuir con documentación o código o compartir experiencias implementando el proyecto en la Administración.
+Participar directamente en la comunidad da acceso a conocimientos consolidados de otras entidades, y se puede contribuir con documentación o código o compartir experiencias implementando el proyecto en la Administración.
 
 * Es *económicamente sostenible* porque elimina posibles licencias de uso y reduce costes.
 Esta reducción no significa una pérdida de calidad ni de seguridad.

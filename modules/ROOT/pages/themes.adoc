@@ -1,4 +1,4 @@
-= Temes i objectius
+= Temas y objetivos
 ifndef::env-site,env-github[]
 include::_attributes.adoc[]
 endif::[]

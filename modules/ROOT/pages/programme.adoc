@@ -152,7 +152,7 @@ En este proceso de descubrimiento se va generando un conjunto de documentos que 
 
 * Glosario de términos utilizados (véase el anexo 12.10).
 
-Las guías, que acompañan la presente me-dida de gobierno como anexos, se publica-rán como un corpus coherente de trabajo y se irán mejorando a lo largo del proceso de transformación ágil en este mandato.
+Las guías, que acompañan la presente medida de gobierno como anexos, se publicarán como un corpus coherente de trabajo y se irán mejorando a lo largo del proceso de transformación ágil en este mandato.
 ////
 Aquests documents que acompanyen la present mesura de govern com annexos, seran publicades com un corpus coherent de treball i s'aniran millorant en al llarg del procés de transformació àgil en aquest mandat.
 

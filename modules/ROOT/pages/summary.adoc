@@ -4,7 +4,7 @@ include::_attributes.adoc[]
 endif::[]
 include::{partialsdir}/README.adoc[tag=metadata]
 
-En setiembre del 2016, el Ayuntamiento de Barcelona emprendió un importante proceso de transformación digital al anunciar que los servicios públicos deben proveerse ya desde el inicio mediante canales digitales, siguiendo una nueva directriz basada en la orientación a la ciudadanía y el uso de estándares abiertos y software abierto, y de acuerdo con una estrategia de datos éti-ca que da prioridad a la privacidad, a la transparencia y a los derechos digitales.
+En setiembre del 2016, el Ayuntamiento de Barcelona emprendió un importante proceso de transformación digital al anunciar que los servicios públicos deben proveerse ya desde el inicio mediante canales digitales, siguiendo una nueva directriz basada en la orientación a la ciudadanía y el uso de estándares abiertos y software abierto, y de acuerdo con una estrategia de datos ética que da prioridad a la privacidad, a la transparencia y a los derechos digitales.
 
 La decisión del Gobierno de la ciudad está basada en el plan “Barcelona, ciudad digital” (PBCD), aprobado en medida de gobierno el pasado mes de octubre del 2016 y en la nueva Ley española 39/2015 del procedimiento administrativo común de las administraciones públicas.
 Esta establece que en el año 2020 en el Estado español los canales digitales tienen que ser prioritarios a la hora de proveer los servicios públicos.
